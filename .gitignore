@@ -3,3 +3,8 @@
 .RData
 .Ruserdata
 .positai
+
+# Jekyll build output (GitHub Pages lo genera automáticamente)
+_site/
+.jekyll-cache/
+.jekyll-metadata
