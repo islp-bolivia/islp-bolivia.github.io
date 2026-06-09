@@ -49,11 +49,36 @@ social:
 address:
   - line: La Paz - Bolivia
 
-# Build settings
+# Build settings - OPTIMIZADO PARA MEJOR RENDIMIENTO
 markdown: kramdown
 permalink: pretty
 
+# Optimizaciones de compilación para mejor velocidad
+incremental: true
+future: false
+limit_posts: 100
+
+# Compilación CSS/SCSS optimizada
+sass:
+  style: compressed
+  cache: true
+
+# Plugins comunes (agrega solo los que realmente uses)
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# Configuración de caché para mejor rendimiento
+keep_files:
+  - img
+  - css
+  - js
+
+# Excluir archivos innecesarios para optimizar build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - OPTIMIZACIONES.md
+  - islp-bolivia.github.io.Rproj
