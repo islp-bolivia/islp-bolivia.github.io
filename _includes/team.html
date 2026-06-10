@@ -1,37 +1,53 @@
-<!-- Team Section -->
+<!-- Team Section - Comité Evaluador Permanente -->
     <section id="team" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Comité Evaluador</h2>
-                    <h3 class="section-subheading text-muted">La evaluación de los pósters estará a cargo de:</h3>
+                    <h2 class="section-heading">Comité Evaluador Permanente</h2>
+                    <h3 class="section-subheading text-muted">La evaluación de los pósters estará a cargo de profesionales comprometidos con la educación estadística:</h3>
                 </div>
             </div>
+            
             <div class="row">
-                {% for member in site.people %}
-                <div class="col-sm-4">
+                <!-- Fundación ARU (Permanente) -->
+                <div class="col-sm-6">
                     <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="{{ member.name }}" loading="lazy">
-                        <h4>{{ member.name }}</h4>
-                        <p class="text-muted">{{ member.position }}</p>
+                        <img src="img/team/arulogo.jpg" class="img-responsive img-circle" alt="Fundación ARU" width="225" height="225" loading="lazy" decoding="async" style="border: 5px solid #3498db;">
+                        <h4>Fundación ARU</h4>
+                        <p class="text-muted">Instituto de Investigación<br><strong style="color: #2c3e50;">Miembro Permanente</strong></p>
                         <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
-                            <li>
-                                <a href="{{ network.url }}">
-                                    <i class="fa fa-{{ network.title }}"></i>
-                                </a>
-                            </li>
-                            {% endfor %}
-
+                            <li><a href="https://www.aru.org.bo/" target="_blank" title="Sitio web"><i class="fa fa-globe"></i></a></li>
+                            <li><a href="https://www.facebook.com/FundacionARU" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.twitter.com/arufoundation" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
                         </ul>
                     </div>
                 </div>
-                {% endfor %}
+
+                <!-- Álvaro Chirino - Coordinador Nacional ISLP (Permanente) -->
+                <div class="col-sm-6">
+                    <div class="team-member">
+                        <img src="img/team/alvaro.jpg" class="img-responsive img-circle" alt="Álvaro Chirino Gutiérrez" width="225" height="225" loading="lazy" decoding="async" style="border: 5px solid #3498db;">
+                        <h4>Álvaro Chirino Gutiérrez</h4>
+                        <p class="text-muted">Coordinador Nacional ISLP Bolivia<br><strong style="color: #2c3e50;">Miembro Permanente</strong></p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="mailto:islp.bolivia@gmail.com" title="Email"><i class="fa fa-envelope"></i></a></li>
+                            <li><a href="https://www.twitter.com/IslpBolivia" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.facebook.com/islpBolivia" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-            <div class="row">
+
+            <div class="row" style="margin-top: 50px;">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">“ Algo muy importante para el principiante es comprender que si los resultados van a ser tratados estadísticamente, es necesario tener en cuenta la estadística al planear el experimento.”</p>
+                    <p class="large text-muted" style="font-size: 18px; font-style: italic; color: #34495e;">
+                        <strong>"La estadística es la gramática de la ciencia."</strong><br>
+                        — Karl Pearson
+                    </p>
+                    <p class="text-muted" style="margin-top: 25px; font-size: 15px; line-height: 1.8;">
+                        Nuestro comité evaluador permanente se dedica a fomentar la alfabetización estadística, la excelencia en la investigación y la innovación metodológica entre estudiantes de todas las edades en Bolivia.
+                    </p>
                 </div>
             </div>
         </div>
-    </section>                                                                                                                                                                                                                                              
+    </section>
