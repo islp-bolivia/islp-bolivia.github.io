@@ -1,26 +1,274 @@
-<HTML>
-<HEAD>
-<TITLE>Islp_Bolivia </TITLE>
-</HEAD>
-<body id="fondo1" background="header-bg.jpg">
-
-<!-- <img src="header-bg.jpg" border="0" width="1210" height="30"> -->
-<font size=7> Competencia Boliviana de Posters Estadísticos </font>
-<HR>
-<!--<img src="header-bg.jpg" border="0" width="1210" height="30">-->
-
-<P> <font color="blue"> <strong> <u> <font size=5> ¡¡¡Bienvenidos(as) !!!! </font> </u> </strong> </font> a la página del concurso de posters estadísticos, realizado por cuarta vez en Bolivia.</P>
-<P>Antes de llenar el formulario, nos permitimos recordarles algunas cosas que deben tener ya listo:</P>
-<P>1. Nombre del grupo</P>
-<P>2. Nombre del tutor(a)</P>
-<P>3. Nombre de los 2 o 5 participantes del grupo</P>
-<P>4. Correo y Celular de contacto del equipo</P>
-<P>5. El poster digital en español (jpg o pdf)</P>
-<P>5. El poster digital en ingles (OPCIONAL)</P>
-<P>Ya tienen todo?</P>
-
-<input type="button" style="background:#FAD7A0; font-size:14pt" onclick=" location.href='https://forms.gle/fg1JQkTyrgnArFBc6' "  value="Si, llenar el formulario" name="boton" />
-<input type="button" style="background:#FFF176; font-size:14pt" onclick=" location.href='https://islp-bolivia.github.io/' " value="No, volver a la página principal" name="boton" />
-
-</BODY>
-</HTML> 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ISLP Bolivia - Envía tu Póster Estadístico</title>
+    <meta name="description" content="Envía tu póster estadístico a la competencia ISLP Bolivia. Sigue los pasos y completa el formulario.">
+    <meta name="author" content="ISLP Bolivia">
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRfJ92CbnMNeXojkE4xccohf5I8V7ZYrPyl0DdSiWa" crossorigin="anonymous">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Droid+Serif:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2LCoWsi3IH3lObp63rZICH4kB4gUeIrz0D" crossorigin="anonymous">
+    
+    <!-- Theme Colors -->
+    <link href="css/theme-colors.css" rel="stylesheet">
+    
+    <style>
+        * {
+            font-family: 'Montserrat', sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #f8f9fa 0%, #ecf0f1 100%);
+            color: #2C3E50;
+            padding: 0;
+            margin: 0;
+        }
+        
+        .header-section {
+            background: linear-gradient(135deg, #2E5090 0%, #3D6BB3 100%);
+            color: white;
+            padding: 60px 0;
+            text-align: center;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        
+        .header-section h1 {
+            font-size: 2.8rem;
+            font-weight: 800;
+            margin: 0 0 20px 0;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .header-section p {
+            font-size: 1.2rem;
+            margin: 0;
+            opacity: 0.95;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 60px auto;
+            padding: 0 20px;
+        }
+        
+        .instruction-box {
+            background: white;
+            border-radius: 12px;
+            padding: 40px;
+            margin-bottom: 40px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border-left: 5px solid #2E5090;
+        }
+        
+        .instruction-box h2 {
+            color: #2E5090;
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin-top: 0;
+            margin-bottom: 25px;
+        }
+        
+        .instruction-box p {
+            font-size: 1rem;
+            line-height: 1.8;
+            margin: 12px 0;
+            color: #2C3E50;
+        }
+        
+        .checklist {
+            list-style: none;
+            padding: 0;
+            margin: 20px 0;
+        }
+        
+        .checklist li {
+            padding: 12px 0 12px 40px;
+            position: relative;
+            font-size: 1rem;
+            line-height: 1.6;
+            color: #2C3E50;
+            margin-bottom: 8px;
+        }
+        
+        .checklist li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #27AE60;
+            font-weight: bold;
+            font-size: 1.3rem;
+        }
+        
+        .button-group {
+            display: flex;
+            gap: 15px;
+            margin-top: 40px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .btn-custom {
+            padding: 15px 30px;
+            font-size: 1.1rem;
+            border: none;
+            border-radius: 8px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        
+        .btn-primary-custom {
+            background: linear-gradient(135deg, #2E5090 0%, #3D6BB3 100%);
+            color: white;
+            min-width: 280px;
+        }
+        
+        .btn-primary-custom:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(46, 80, 144, 0.3);
+            color: white;
+            text-decoration: none;
+        }
+        
+        .btn-secondary-custom {
+            background: white;
+            color: #2E5090;
+            border: 2px solid #2E5090;
+            min-width: 280px;
+        }
+        
+        .btn-secondary-custom:hover {
+            background: #f8f9fa;
+            transform: translateY(-3px);
+            color: #2E5090;
+            text-decoration: none;
+        }
+        
+        .step-box {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 20px;
+            align-items: flex-start;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border-top: 4px solid #2E5090;
+        }
+        
+        .step-number {
+            background: #2E5090;
+            color: white;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 800;
+            font-size: 1.5rem;
+            flex-shrink: 0;
+            box-shadow: 0 4px 8px rgba(46, 80, 144, 0.3);
+        }
+        
+        .step-content h3 {
+            margin: 0 0 8px 0;
+            color: #2E5090;
+            font-weight: 700;
+            font-size: 1.2rem;
+        }
+        
+        .step-content p {
+            margin: 0;
+            color: #2C3E50;
+            line-height: 1.6;
+            font-size: 0.95rem;
+        }
+        
+        .footer-section {
+            background: #2C3E50;
+            color: white;
+            padding: 40px 0;
+            text-align: center;
+            margin-top: 60px;
+        }
+        
+        .footer-section a {
+            color: #5A89D6;
+            font-weight: 700;
+        }
+        
+        .footer-section a:hover {
+            color: #7BA3E0;
+        }
+        
+        .important-note {
+            background: #FFF3CD;
+            border: 2px solid #F39C12;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 30px 0;
+            color: #856404;
+            font-weight: 600;
+        }
+        
+        @media (max-width: 768px) {
+            .header-section h1 {
+                font-size: 2rem;
+            }
+            
+            .header-section p {
+                font-size: 1rem;
+            }
+            
+            .button-group {
+                flex-direction: column;
+            }
+            
+            .btn-custom {
+                width: 100%;
+            }
+            
+            .step-box {
+                padding: 20px;
+            }
+            
+            .instruction-box {
+                padding: 25px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <div class="header-section">
+        <div class="container">
+            <h1>🎯 ¡Envía tu Póster Estadístico!</h1>
+            <p>Competencia Boliviana de Posters Estadísticos - ISLP Bolivia 2026-2027</p>
+        </div>
+    </div>
+    
+    <!-- Main Content -->
+    <div class="container">
+        <!-- Instrucciones Iniciales -->
+        <div class="instruction-box">
+            <h2>📋 Antes de Empezar</h2>
+            <p style="font-size: 1.1rem; color: #2E5090; font-weight: 700; margin-bottom: 20px;">
+                Asegúrate de tener LISTO antes de llenar el formulario:
+            </p>
+            <ul class="checklist">
+                <li><strong>Nombre del grupo/equipo</strong></li>
+                <li><strong>Nombre del tutor(a) o profesor(a)</strong></li>
+                <li><strong>Nombres de los 2 a 5 participantes del grupo</strong></li>
+                <li><strong>Correo electrónico y celular de contacto del equipo</strong></li>
+                <li><strong>Categoría a la que pertenecen</strong> (Laplace, Bernoulli, Poisson, Gauss)</li>
+                <li><strong>El póster digital en español</strong> (formato JPG o PDF, máximo 5MB)</li>\n                <li><strong>El póster digital en inglés</strong> (OPCIONAL, JPG o PDF, máximo 5MB)</li>\n            </ul>\n            \n            <div class=\"important-note\">\n                ⚠️ <strong>IMPORTANTE:</strong> Revisa las <strong>Normas de Participación</strong> y la <strong>Guía de Elaboración</strong> antes de enviar tu trabajo. El póster debe cumplir con TODOS los criterios especificados.\n            </div>\n        </div>\n        \n        <!-- Descargas Importantes -->\n        <div class=\"instruction-box\" style=\"border-left-color: #27AE60;\">\n            <h2 style=\"color: #27AE60;\">📚 Documentos Importantes</h2>\n            <p>Descarga los siguientes documentos para conocer todos los requisitos:</p>\n            <div class=\"button-group\">\n                <a href=\"img/Normas%20de%20participacion.pdf\" class=\"btn-custom btn-primary-custom\" target=\"_blank\" rel=\"noopener\">\n                    <i class=\"fa fa-file-pdf-o\" style=\"margin-right: 8px;\"></i>Normas de Participación\n                </a>\n                <a href=\"img/guia_2022_2023.pdf\" class=\"btn-custom btn-primary-custom\" target=\"_blank\" rel=\"noopener\">\n                    <i class=\"fa fa-book\" style=\"margin-right: 8px;\"></i>Guía de Elaboración del Póster\n                </a>\n            </div>\n        </div>\n        \n        <!-- Pasos para Enviar -->\n        <div style=\"margin-bottom: 40px;\">\n            <h2 style=\"color: #2E5090; font-size: 1.8rem; font-weight: 700; margin-bottom: 30px; text-align: center;\">\n                📝 4 Pasos para Enviar tu Póster\n            </h2>\n            \n            <div class=\"step-box\">\n                <div class=\"step-number\">1</div>\n                <div class=\"step-content\">\n                    <h3>Lee cuidadosamente</h3>\n                    <p>Revisa todas las normas y criterios de evaluación para tu categoría específica.</p>\n                </div>\n            </div>\n            \n            <div class=\"step-box\">\n                <div class=\"step-number\">2</div>\n                <div class=\"step-content\">\n                    <h3>Prepara tu póster</h3>\n                    <p>Elabora tu póster estadístico siguiendo la guía de elaboración y cumpliendo con los requisitos de formato.</p>\n                </div>\n            </div>\n            \n            <div class=\"step-box\">\n                <div class=\"step-number\">3</div>\n                <div class=\"step-content\">\n                    <h3>Reúne la información</h3>\n                    <p>Ten a mano todos los datos de tu equipo: nombres, contactos y categoría de participación.</p>\n                </div>\n            </div>\n            \n            <div class=\"step-box\">\n                <div class=\"step-number\">4</div>\n                <div class=\"step-content\">\n                    <h3>Completa el formulario</h3>\n                    <p>Haz clic en el botón de abajo y completa el formulario en línea con toda la información de tu equipo y póster.</p>\n                </div>\n            </div>\n        </div>\n        \n        <!-- Botones de Acción -->\n        <div style=\"text-align: center; margin: 60px 0;\">\n            <h2 style=\"color: #2E5090; font-size: 1.8rem; font-weight: 700; margin-bottom: 30px;\">\n                ¿Tienes todo listo?\n            </h2>\n            <div class=\"button-group\" style=\"justify-content: center;\">\n                <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc7rDxBwNfyn-kl7dL-n6cunoIeHJ2K8BwpLvJGb4jq_6uL0Q/viewform\" class=\"btn-custom btn-primary-custom\" target=\"_blank\" rel=\"noopener\" style=\"min-width: 350px; font-size: 1.2rem;\">\n                    <i class=\"fa fa-pencil\" style=\"margin-right: 8px;\"></i>SÍ, LLENAR EL FORMULARIO\n                </a>\n            </div>\n            \n            <p style=\"margin-top: 30px; color: #2C3E50; font-size: 0.95rem;\">\n                ¿Aún tienes dudas? <a href=\"https://islp-bolivia.github.io/#faq\" style=\"color: #2E5090; font-weight: 700;\">Consulta nuestras preguntas frecuentes</a>\n            </p>\n        </div>\n        \n        <!-- Info de Contacto -->\n        <div class=\"instruction-box\" style=\"border-left-color: #E74C3C; margin-top: 40px;\">\n            <h2 style=\"color: #E74C3C;\">💬 ¿Tienes Preguntas?</h2>\n            <p>Si tienes dudas sobre el proceso, los requisitos o tu póster, contáctanos:</p>\n            <div class=\"button-group\">\n                <a href=\"mailto:islp.bolivia@gmail.com\" class=\"btn-custom btn-secondary-custom\">\n                    <i class=\"fa fa-envelope\" style=\"margin-right: 8px;\"></i>islp.bolivia@gmail.com\n                </a>\n                <a href=\"https://www.facebook.com/islpBolivia/\" class=\"btn-custom btn-secondary-custom\" target=\"_blank\" rel=\"noopener\">\n                    <i class=\"fa fa-facebook\" style=\"margin-right: 8px;\"></i>Facebook\n                </a>\n                <a href=\"https://islp-bolivia.github.io/\" class=\"btn-custom btn-secondary-custom\">\n                    <i class=\"fa fa-home\" style=\"margin-right: 8px;\"></i>Ir a la Página Principal\n                </a>\n            </div>\n        </div>\n    </div>\n    \n    <!-- Footer -->\n    <div class=\"footer-section\">\n        <div class=\"container\">\n            <p style=\"margin: 0; font-size: 0.95rem;\">\n                © 2026 ISLP Bolivia - Competencia Boliviana de Posters Estadísticos\n            </p>\n            <p style=\"margin: 8px 0 0 0; font-size: 0.85rem; opacity: 0.8;\">\n                <a href=\"https://islp-bolivia.github.io/\">Volver a la página principal</a>\n            </p>\n        </div>\n    </div>\n    \n    <!-- Bootstrap JS -->\n    <script src=\"https://code.jquery.com/jquery-1.12.4.min.js\" integrity=\"sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT\" crossorigin=\"anonymous\"></script>\n    <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js\" integrity=\"sha384-Tc5IQib027qvyjSMfqo2Qsr8C/VDQVQEwFn03CfMvnE0eOoj7qtNd/VrT50H8B8L\" crossorigin=\"anonymous\"></script>\n</body>\n</html>\n
