@@ -3,25 +3,44 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
-    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta name="author" content="ISLP Bolivia">
+    <meta name="keywords" content="ISLP, Bolivia, Competencia de Posters Estadísticos, Alfabetización Estadística">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://islp-bolivia.github.io/">
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:image" content="https://islp-bolivia.github.io/img/header-bg.jpg">
+    
+    <title>{{ site.title }}</title>
 
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ "/img/icon.jpg" | prepend: site.baseurl }}">
-
-    <!-- Preconnect para Google Fonts (evita latencia de DNS/TLS) -->
+    <!-- Bootstrap Core CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRfJ92CbnMNeXojkE4xccohf5I8V7ZYrPyl0DdSiWa" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Droid+Serif:wght@400;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2LCoWsi3IH3lObp63rZICH4kB4gUeIrz0D" crossorigin="anonymous">
 
-    <!-- Google Fonts consolidadas en una sola petición con display=swap -->
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Kaushan+Script&family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Droid+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Slab:wght@100;300;400;700&display=swap" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="{{ site.baseurl }}/css/theme-colors.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/css/agency.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/infinite-slider.css" rel="stylesheet">
 
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="{{ "/css/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
-
-    <!-- CSS del tema (Bootstrap + Agency, procesado por Jekyll) -->
-    <link rel="stylesheet" href="{{ "/style.css" | prepend: site.baseurl }}">
-
-    <!-- Slider CSS -->
-    <link rel="stylesheet" href="{{ "/infinite-slider.css" | prepend: site.baseurl }}">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js" integrity="sha384-0s5Pv64cNZJeG5FyfRagNCn9P9SS7mkQH7hVZV5ckSJBw3MxFFAthqGZMDAC87m5" crossorigin="anonymous"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js" integrity="sha384-ZoaMbDF+4LeFxg6WdScQ9nnR1QC2MIRxA1O8m0G5/XZrRygagJ2J8UCndkYolXQrp" crossorigin="anonymous"></script>
+    <![endif]-->
+    
+    <!-- Favicon -->
+    <link rel="icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon">
+    
+    <!-- DNS Prefetch para mejor rendimiento -->
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+    <link rel="dns-prefetch" href="//www.facebook.com">
+    <link rel="dns-prefetch" href="//twitter.com">
 </head>
