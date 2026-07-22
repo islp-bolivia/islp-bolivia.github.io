@@ -1,0 +1,223 @@
+/* ===================================================================
+   ISLP Bolivia - Paleta de Colores Armónica
+   Basada en Teoría del Color HSL (Colorimetría Matemática)
+   Versión: 2026.1
+   =================================================================== */
+
+:root {
+  /* Colores Primarios - Azul Estadístico */
+  --primary-dark: #2E5090;      /* Azul profundo - confianza */
+  --primary-medium: #3D6BB3;    /* Azul medio - balance */
+  --primary-light: #5A89D6;     /* Azul claro - energía */
+  
+  /* Colores Secundarios - Acentos */
+  --secondary-accent: #E74C3C;  /* Rojo cálido - llamada a acción */
+  --secondary-warmth: #F39C12;  /* Naranja - energía positiva */
+  --secondary-success: #27AE60; /* Verde - éxito/validación */
+  
+  /* Colores Neutros */
+  --neutral-light: #ECF0F1;     /* Fondo claro */
+  --neutral-medium: #BDC3C7;    /* Separador */
+  --neutral-dark: #2C3E50;      /* Texto principal */
+  --neutral-white: #FFFFFF;     /* Blanco puro */
+  
+  /* Colores Complementarios (Esquema Triádico) */
+  --complement-1: #9B59B6;      /* Púrpura - Gauss */
+  --complement-2: #2ECC71;      /* Verde esmeralda - Bernoulli */
+  --complement-3: #E67E22;      /* Naranja oscuro - Poisson */
+  
+  /* Sombras y Gradientes */
+  --shadow-light: rgba(0, 0, 0, 0.05);
+  --shadow-medium: rgba(0, 0, 0, 0.1);
+  --shadow-dark: rgba(0, 0, 0, 0.15);
+}
+
+/* ===================================================================
+   CATEGORÍAS - Paleta Específica por Categoría
+   =================================================================== */
+
+/* Categoría Laplace (Primaria) - Azules */
+.category-laplace {
+  --cat-primary: #3498db;
+  --cat-dark: #2980b9;
+  --cat-light: #5dade2;
+  --cat-shadow: rgba(52, 152, 219, 0.08);
+}
+
+/* Categoría Bernoulli (Secundaria) - Verdes */
+.category-bernoulli {
+  --cat-primary: #2ecc71;
+  --cat-dark: #27ae60;
+  --cat-light: #58d68d;
+  --cat-shadow: rgba(46, 204, 113, 0.08);
+}
+
+/* Categoría Poisson (Bachillerato) - Naranjas */
+.category-poisson {
+  --cat-primary: #f39c12;
+  --cat-dark: #e67e22;
+  --cat-light: #f8b88b;
+  --cat-shadow: rgba(241, 196, 15, 0.08);
+}
+
+/* Categoría Gauss (Universitarios) - Púrpuras */
+.category-gauss {
+  --cat-primary: #9b59b6;
+  --cat-dark: #8e44ad;
+  --cat-light: #af7ac5;
+  --cat-shadow: rgba(155, 89, 182, 0.08);
+}
+
+/* ===================================================================
+   ESTILOS GLOBALES - Aplicando Paleta Armónica
+   =================================================================== */
+
+body {
+  color: var(--neutral-dark);
+  background-color: var(--neutral-white);
+}
+
+/* Encabezados */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--neutral-dark);
+  font-weight: 700;
+}
+
+.section-heading {
+  color: var(--primary-dark);
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 800;
+}
+
+.section-subheading {
+  color: var(--neutral-dark);
+  opacity: 0.8;
+  font-size: 1.2rem;
+  line-height: 1.8;
+}
+
+/* Botones */
+.btn {
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn-primary, .btn-xl {
+  background-color: var(--primary-dark);
+  border-color: var(--primary-dark);
+  color: var(--neutral-white);
+}
+
+.btn-primary:hover, .btn-xl:hover {
+  background-color: var(--primary-medium);
+  border-color: var(--primary-medium);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px var(--shadow-dark);
+}
+
+.btn-accent {
+  background-color: var(--secondary-accent);
+  border-color: var(--secondary-accent);
+  color: var(--neutral-white);
+}
+
+.btn-accent:hover {
+  background-color: #c0392b;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(231, 76, 60, 0.3);
+}
+
+.btn-success {
+  background-color: var(--secondary-success);
+  border-color: var(--secondary-success);
+  color: var(--neutral-white);
+}
+
+.btn-success:hover {
+  background-color: #229954;
+  transform: translateY(-2px);
+}
+
+/* Enlaces */
+a {
+  color: var(--primary-dark);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--primary-medium);
+  text-decoration: underline;
+}
+
+/* Secciones */
+section {
+  padding: 80px 0;
+}
+
+.bg-primary {
+  background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary-medium) 100%);
+  color: var(--neutral-white);
+}
+
+.bg-light-gray {
+  background-color: var(--neutral-light);
+}
+
+.bg-light-gray-alt {
+  background-color: #f5f7fa;
+}
+
+/* Tarjetas */
+.card, .category-card {
+  border: 1px solid var(--neutral-medium);
+  border-radius: 12px;
+  box-shadow: 0 4px 12px var(--shadow-light);
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+
+.card:hover, .category-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px var(--shadow-medium);
+}
+
+/* ===================================================================
+   RESPONSIVE Y ACCESIBILIDAD
+   =================================================================== */
+
+@media (max-width: 768px) {
+  .section-heading {
+    font-size: 2rem;
+  }
+  
+  .section-subheading {
+    font-size: 1rem;
+  }
+  
+  section {
+    padding: 60px 0;
+  }
+}
+
+/* Modo oscuro (opcional) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --neutral-light: #1a1a1a;
+    --neutral-dark: #e0e0e0;
+    --neutral-white: #0d0d0d;
+  }
+  
+  body {
+    background-color: var(--neutral-white);
+    color: var(--neutral-dark);
+  }
+}
+
+/* Focus para accesibilidad */
+a:focus, button:focus, input:focus {
+  outline: 3px solid var(--primary-light);
+  outline-offset: 2px;
+}
