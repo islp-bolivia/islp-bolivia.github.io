@@ -1,6 +1,6 @@
 project:
   type: website
-
+  output-dir: docs
 website:
   title: "Alfabetización Estadística - Bolivia"
   description: "Iniciativa de Alfabetización Estadística en Bolivia: Competencia de Pósters, Paneles y Grupos de Estudio."
