@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Alfabetización Estadística - Bolivia</title>
+<link>https://islp-bolivia.github.io/actualizaciones/</link>
+<atom:link href="https://islp-bolivia.github.io/actualizaciones/index.xml" rel="self" type="application/rss+xml"/>
+<description>Iniciativa de Alfabetización Estadística en Bolivia: Competencia de Pósters, Paneles y Grupos de Estudio.</description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Tue, 11 Aug 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Nuevo sitio web de ISLP Bolivia</title>
+  <link>https://islp-bolivia.github.io/actualizaciones/posts/bienvenida-al-nuevo-sitio/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Estrenamos un sitio más completo, con información permanente sobre nuestras tres actividades: la Competencia Boliviana de Pósters Estadísticos, los Paneles de Alfabetización Estadística y los Grupos de Estudio para voluntarios y pasantes.</p>
+<!--
+Esta es una plantilla de ejemplo. Duplica esta carpeta (actualizaciones/posts/bienvenida-al-nuevo-sitio/)
+con otro nombre para cada novedad nueva, cambia el título, la fecha y el contenido.
+-->
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Anuncios</category>
+  <guid>https://islp-bolivia.github.io/actualizaciones/posts/bienvenida-al-nuevo-sitio/</guid>
+  <pubDate>Tue, 11 Aug 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://islp-bolivia.github.io/actualizaciones/posts/bienvenida-al-nuevo-sitio/imagen.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

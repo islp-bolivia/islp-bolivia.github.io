@@ -1,0 +1,53 @@
+---
+title: "🎯 ¡Envía tu Póster Estadístico!"
+subtitle: "Competencia Boliviana de Pósters Estadísticos · ISLP Bolivia 2026–2027"
+---
+
+## 📋 Antes de empezar
+
+Asegúrate de tener **listo** esto antes de llenar el formulario:
+
+::: {.checklist}
+- Nombre del grupo/equipo
+- Nombre del tutor(a) o profesor(a)
+- Nombres de los 2 a 5 participantes del grupo
+- Correo electrónico y celular de contacto del equipo
+- Categoría a la que pertenecen (Laplace, Bernoulli, Poisson, Gauss)
+- Una foto grupal (opcional)
+- El póster digital en español (formato JPG o PDF)
+- El póster digital en inglés (opcional)
+:::
+
+::: {.callout-alert}
+**⚠️ Importante:** revisa las Normas de Participación y la Guía de Elaboración antes de enviar tu trabajo.
+:::
+
+## 📚 Documentos importantes
+
+Descarga los siguientes documentos para conocer todos los requisitos:
+
+[📄 Normas de Participación](img/docs27/rules27.pdf){.btn .btn-outline-terracota role="button" target="_blank" rel="noopener"}
+[📖 Guía de Elaboración](img/docs27/guia27.pdf){.btn .btn-outline-terracota role="button" target="_blank" rel="noopener"}
+[📖 Criterios de Evaluación](img/docs27/criterios27.pdf){.btn .btn-outline-terracota role="button" target="_blank" rel="noopener"}
+
+
+## 📝 4 pasos para enviar
+
+::: {.step-list}
+1. **Lee cuidadosamente** las normas y criterios de evaluación
+2. **Prepara tu póster** siguiendo la guía de elaboración
+3. **Reúne la información** de tu equipo y categoría
+4. **Completa el formulario** con todos los datos requeridos
+:::
+
+## ¿Tienes todo listo?
+
+[✏️ Sí, llenar el formulario](https://forms.gle/fPwAkcfT5iwAN3At7){.btn .btn-terracota .btn-lg role="button" target="_blank" rel="noopener"}
+
+## 💬 ¿Tienes preguntas?
+
+Si tienes dudas sobre el proceso o requisitos, contáctanos:
+
+[📧 islp.bolivia@gmail.com](mailto:islp.bolivia@gmail.com){.btn .btn-outline-terracota role="button"}
+[👍 Facebook](https://www.facebook.com/islpBolivia/){.btn .btn-outline-terracota role="button" target="_blank" rel="noopener"}
+[🏠 Página principal](index.qmd){.btn .btn-outline-terracota role="button"}

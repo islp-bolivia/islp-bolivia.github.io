@@ -1,0 +1,16 @@
+---
+title: "Nuevo sitio web de ISLP Bolivia"
+description: "Renovamos la web con información de las tres actividades de la iniciativa: Competencia de Pósters, Paneles y Grupos de Estudio."
+date: 2026-08-11
+categories: [Anuncios]
+image: imagen.jpg   # descomenta y agrega una imagen en esta misma carpeta si quieres una miniatura
+---
+
+Estrenamos un sitio más completo, con información permanente sobre nuestras tres actividades:
+la Competencia Boliviana de Pósters Estadísticos, los Paneles de Alfabetización Estadística y
+los Grupos de Estudio para voluntarios y pasantes.
+
+<!--
+Esta es una plantilla de ejemplo. Duplica esta carpeta (actualizaciones/posts/bienvenida-al-nuevo-sitio/)
+con otro nombre para cada novedad nueva, cambia el título, la fecha y el contenido.
+-->

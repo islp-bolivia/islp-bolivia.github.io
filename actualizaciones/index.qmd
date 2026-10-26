@@ -1,0 +1,20 @@
+---
+title: "Actualizaciones"
+subtitle: "Novedades cortas de la iniciativa: convocatorias, resultados y avisos"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  fields: [image, date, title, description, categories]
+  categories: true
+  feed: true
+page-layout: full
+title-block-banner: false
+---
+
+<!--
+Para publicar una novedad nueva: crea una carpeta dentro de actualizaciones/posts/
+con un archivo index.qmd (copia uno existente como plantilla) y su propio
+encabezado (title, date, categories, image). Aparecerá aquí automáticamente,
+ordenada por fecha, sin tocar ninguna otra página del sitio.
+-->

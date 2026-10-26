@@ -1,0 +1,73 @@
+project:
+  type: website
+
+website:
+  title: "Alfabetización Estadística - Bolivia"
+  description: "Iniciativa de Alfabetización Estadística en Bolivia: Competencia de Pósters, Paneles y Grupos de Estudio."
+  site-url: "https://islp-bolivia.github.io"
+  favicon: img/favicon.png
+  page-navigation: true
+  back-to-top-navigation: true
+  search:
+    location: navbar
+    type: overlay
+  open-graph:
+    locale: es_BO
+    # Reemplaza img/og-image.jpg por una imagen 1200x630px (logo + eslogan) para compartir en redes
+    image: img/og-image.jpg
+  twitter-card:
+    image: img/og-image.jpg
+
+  navbar:
+    background: white
+    pinned: true
+    logo: img/islp.jpg
+    title: "Alfabetización Estadística - Bolivia"
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Actividades"
+        menu:
+          - text: "Competencia de Pósters (actual)"
+            href: competencia.qmd
+          - text: "Ediciones pasadas"
+            href: pasadas.qmd
+          - text: "Paneles de Alfabetización"
+            href: paneles.qmd
+          - text: "Grupos de Estudio"
+            href: grupos-estudio.qmd
+      - text: "Comunidad"
+        href: comunidad.qmd
+      - text: "Noticias"
+        href: actualizaciones/index.qmd
+      - text: "Nosotros"
+        href: nosotros.qmd
+    right:
+      - text: "Inscríbete: Competencia 2026–27"
+        href: inscripcion.qmd
+        icon: pencil-square
+
+  page-footer:
+    left: "© Alfabetización Estadística - Bolivia · ISLP Bolivia"
+    center:
+      - text: "Contacto"
+        href: contacto.qmd
+      - text: "Facebook"
+        href: https://www.facebook.com/islpBolivia/
+      - text: "Twitter/X"
+        href: https://twitter.com/IslpBolivia
+    right:
+      - text: "ISLP Internacional"
+        href: https://iase-web.org/islp/
+    background: light
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    css: styles.css
+    toc: false
+    grid:
+      body-width: 900px
+    fontsize: 1.05rem
+    fig-responsive: true
+    smooth-scroll: true

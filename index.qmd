@@ -1,0 +1,144 @@
+---
+title: ""
+page-layout: full
+listing:
+  id: home-updates
+  contents: actualizaciones/posts
+  type: grid
+  max-items: 3
+  sort: "date desc"
+  fields: [image, date, title, description]
+  image-height: "160px"
+  grid-columns: 3
+---
+
+::: {.hero}
+::: {.hero-grid}
+
+::: {.hero-text}
+<div class="eyebrow">Alfabetización Estadística Bolivia</div>
+
+# Formando una cultura de datos en Bolivia
+
+<p class="lead">Somos la iniciativa boliviana del Proyecto Internacional de Alfabetización Estadística (ISLP). Impulsamos la Competencia Boliviana de Pósters Estadísticos, Paneles de Alfabetización, Grupos de Estudio y una red de contacto entre estadísticos, para acercar el pensamiento estadístico a estudiantes y profesionales de todo el país.</p>
+
+<div class="cta-row">
+
+[Inscríbete a la competencia](inscripcion.qmd){.btn .btn-terracota .btn-lg role="button"}
+[Conoce nuestras actividades](#actividades){.btn .btn-outline-terracota .btn-lg role="button"}
+
+</div>
+:::
+
+::: {.hero-image}
+![](img/islp3.jpg)
+:::
+
+:::
+:::
+
+## Nuestras actividades {#actividades}
+
+Tres frentes de trabajo con un mismo objetivo: que más personas en Bolivia piensen, lean y comuniquen con datos.
+
+::: {.pillars}
+
+::: {.pillar-card}
+<div class="num">01 · COMPETENCIA</div>
+
+### Competencia de Pósters Estadísticos
+
+Equipos de estudiantes de primaria a universidad investigan una pregunta real y la comunican en un póster. Se realiza cada dos años y culmina representando a Bolivia en la competencia internacional del ISLP.
+
+[Ver edición actual →](competencia.qmd)
+:::
+
+::: {.pillar-card}
+<div class="num">02 · PANELES</div>
+
+### Paneles de Alfabetización
+
+Charlas y paneles abiertos donde profesionales y estudiantes conversan sobre el uso de datos y estadística en problemas reales de Bolivia.
+
+[Ver más →](paneles.qmd)
+:::
+
+::: {.pillar-card}
+<div class="num">03 · GRUPOS DE ESTUDIO</div>
+
+### Grupos de Estudio
+
+Espacios periódicos de aprendizaje colaborativo en estadística y análisis de datos, abiertos a quienes quieren profundizar más allá del aula.
+
+[Ver más →](grupos-estudio.qmd)
+:::
+
+::: {.pillar-card}
+<div class="num">04 · RED</div>
+
+### Red de Estadísticos
+
+Ofertas laborales, congresos y capacitaciones circulando entre quienes trabajan o estudian estadística en Bolivia, en un canal ágil de comunicación.
+
+[Ver más →](comunidad.qmd)
+:::
+
+:::
+
+## Últimas noticias
+
+Novedades cortas de la iniciativa: convocatorias, resultados y avisos.
+
+::: {.updates-carousel}
+::: {#home-updates}
+:::
+:::
+
+[Ver todas las noticias →](actualizaciones/index.qmd)
+
+## Competencia Boliviana de Pósters Estadísticos — Quinta edición
+
+<span class="badge-estado badge-actual">Inscripciones abiertas · 2026–2027</span>
+
+Postula tu investigación y forma parte del principal evento de alfabetización estadística de Bolivia. Equipos de 2 a 5 personas, guiados por un tutor, en cuatro categorías según edad.
+
+[Ver bases e inscripción](competencia.qmd){.btn .btn-terracota role="button"}
+[Ver ediciones pasadas](pasadas.qmd){.btn .btn-outline-terracota role="button"}
+
+## Instituciones que han apoyado
+
+<!--
+El respaldo institucional varía según la edición de la competencia (no son socios
+permanentes). Actualiza este listado por edición si quieres reflejar exactamente quién
+apoyó cada versión. Reemplaza cada img/logos/<archivo>.png por el logo real (con los
+derechos correspondientes) y ajusta el enlace a la web de cada institución en Bolivia.
+-->
+
+El respaldo institucional ha variado según la edición de la competencia. Estas son algunas de las instituciones que colaboraron en distintos momentos:
+
+::: {.logo-marquee}
+<div class="logo-track">
+<a href="https://www.aru.org.bo/" target="_blank" rel="noopener"><img src="img/logos/aru.jpg" alt="Fundación ARU"></a>
+<a href="https://www.unicef.org/bolivia/" target="_blank" rel="noopener"><img src="img/logos/unicef.jpg" alt="UNICEF Bolivia"></a>
+<a href="https://www.bancomundial.org/es/country/bolivia" target="_blank" rel="noopener"><img src="img/logos/banco-mundial.jpg" alt="Banco Mundial Bolivia"></a>
+<a href="https://www.ine.gob.bo/" target="_blank" rel="noopener"><img src="img/logos/ine.jpg" alt="INE Bolivia"></a>
+<a href="https://www.ucb.edu.bo/" target="_blank" rel="noopener"><img src="img/logos/ucb.png" alt="Universidad Católica Boliviana"></a>
+<a href="https://estadistica.umsa.bo/" target="_blank" rel="noopener"><img src="img/logos/umsa.jpg" alt="Carrera de Estadística UMSA"></a>
+<a href="https://www.facebook.com/estadistica.centrodeestudiantes" target="_blank" rel="noopener"><img src="img/logos/cee.jpg" alt="Centro de Estudiantes de Estadística"></a>
+<a href="https://www.facebook.com/CefacFcpnSteam" target="_blank" rel="noopener"><img src="img/logos/cefac.jpg" alt="CEFAC"></a>
+<a href="https://www.facebook.com/RLadiesLaPaz" target="_blank" rel="noopener"><img src="img/logos/rladies.png" alt="R-Ladies La Paz"></a>
+<!-- Bloque duplicado para que el desplazamiento sea continuo — no lo borres -->
+<a href="https://www.aru.org.bo/" target="_blank" rel="noopener"><img src="img/logos/aru.jpg" alt="Fundación ARU"></a>
+<a href="https://www.unicef.org/bolivia/" target="_blank" rel="noopener"><img src="img/logos/unicef.jpg" alt="UNICEF Bolivia"></a>
+<a href="https://www.bancomundial.org/es/country/bolivia" target="_blank" rel="noopener"><img src="img/logos/banco-mundial.jpg" alt="Banco Mundial Bolivia"></a>
+<a href="https://www.ine.gob.bo/" target="_blank" rel="noopener"><img src="img/logos/ine.jpg" alt="INE Bolivia"></a>
+<a href="https://www.ucb.edu.bo/" target="_blank" rel="noopener"><img src="img/logos/ucb.png" alt="Universidad Católica Boliviana"></a>
+<a href="https://estadistica.umsa.bo/" target="_blank" rel="noopener"><img src="img/logos/umsa.jpg" alt="Carrera de Estadística UMSA"></a>
+<a href="https://www.facebook.com/estadistica.centrodeestudiantes" target="_blank" rel="noopener"><img src="img/logos/cee.jpg" alt="Centro de Estudiantes de Estadística"></a>
+<a href="https://www.facebook.com/CefacFcpnSteam" target="_blank" rel="noopener"><img src="img/logos/cefac.jpg" alt="CEFAC"></a>
+<a href="https://www.facebook.com/RLadiesLaPaz" target="_blank" rel="noopener"><img src="img/logos/rladies.png" alt="R-Ladies La Paz"></a>
+</div>
+
+:::
+
+[Conoce al equipo y colaboradores →](nosotros.qmd)

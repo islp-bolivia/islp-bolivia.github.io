@@ -1,0 +1,51 @@
+---
+title: "Nosotros"
+subtitle: "Quiénes hacemos posible la alfabetización estadística en Bolivia"
+---
+
+## Proyecto Internacional de Alfabetización Estadística
+
+El Proyecto Internacional de Alfabetización Estadística ([ISLP](https://iase-web.org/islp/)) está bajo el paraguas de la Asociación Internacional para la Educación Estadística (IASE), una sección de la Asociación Internacional de Estadística (ISI). Su concurso de pósters estadísticos, celebrado bienalmente desde el año 2000, es la primera competencia internacional de este tipo y una plataforma para que estudiantes de todas las edades muestren su comprensión de la estadística mediante presentaciones visuales.
+
+ISLP Bolivia es el nodo boliviano de esta red internacional, y desde 2018 impulsa la Competencia Boliviana de Pósters Estadísticos, además de los Paneles de Alfabetización y los Grupos de Estudio.
+
+## Comité Evaluador Permanente
+
+::: {.pillars}
+
+::: {.pillar-card}
+### Fundación ARU
+Instituto de Investigación · Miembro Permanente
+
+[Sitio web](https://www.aru.org.bo/) · [Facebook](https://www.facebook.com/FundacionARU) · [Twitter](https://www.twitter.com/arufoundation)
+:::
+
+::: {.pillar-card}
+### Álvaro Chirino Gutiérrez
+Coordinador Nacional ISLP Bolivia · Miembro Permanente
+
+[Email](mailto:islp.bolivia@gmail.com) · [Twitter](https://www.twitter.com/IslpBolivia) · [Facebook](https://www.facebook.com/islpBolivia)
+:::
+
+:::
+
+> "La estadística es la gramática de la ciencia." — Karl Pearson
+
+Nuestro comité evaluador permanente se dedica a fomentar la alfabetización estadística, la excelencia en la investigación y la innovación metodológica entre estudiantes de todas las edades en Bolivia.
+
+## Instituciones que han apoyado
+
+<!-- Coincide con la lista de img/logos/ usada en index.qmd — mantenlas sincronizadas si agregas o quitas alguna -->
+El respaldo institucional varía según la edición de la competencia: no son socios permanentes, sino instituciones que han colaborado en distintos momentos con la educación y la investigación estadística en Bolivia:
+
+- [UNICEF Bolivia](https://www.unicef.org/bolivia/)
+- [Banco Mundial Bolivia](https://www.bancomundial.org/es/country/bolivia)
+- [Instituto Nacional de Estadística (INE) Bolivia](https://www.ine.gob.bo/)
+- [Universidad Católica Boliviana](https://www.ucb.edu.bo/)
+- [Carrera de Estadística UMSA](https://estadistica.umsa.bo/)
+- [Centro de Estudiantes de Estadística](https://www.facebook.com/estadistica.centrodeestudiantes)
+- [CEFAC](https://www.facebook.com/CefacFcpnSteam)
+- [R-Ladies La Paz](https://www.facebook.com/RLadiesLaPaz)
+- [Fundación ARU](https://www.aru.org.bo/)
+
+¿Tu institución quiere sumarse en la próxima edición? [Escríbenos](contacto.qmd).

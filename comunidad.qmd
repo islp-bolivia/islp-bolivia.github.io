@@ -1,0 +1,114 @@
+---
+title: "Red de Estadísticos Bolivia"
+subtitle: "Un espacio para conectar, compartir oportunidades y seguir aprendiendo"
+---
+
+<span class="badge-estado badge-actual">Fase inicial</span>
+
+No somos una sociedad de estadística formal, pero sí queremos ser el paraguas informal que
+conecta a quienes trabajan o estudian estadística y datos en Bolivia: una red donde
+circulen ofertas laborales, congresos, capacitaciones y contactos entre colegas, más allá
+de la competencia, los paneles y los grupos de estudio.
+
+## ¿Qué vas a encontrar?
+
+::: {.pillars}
+
+::: {.pillar-card}
+
+<div class="num">RED</div>
+
+### Ofertas laborales
+
+Vacantes de estadística, análisis de datos, encuestas e investigación social, compartidas por
+la propia comunidad o instituciones aliadas.
+:::
+
+::: {.pillar-card}
+
+<div class="num">RED</div>
+
+### Congresos y eventos
+
+Convocatorias a congresos, seminarios y encuentros académicos, nacionales e internacionales,
+relevantes para estadísticos y cientificxs de datos bolivianos.
+:::
+
+::: {.pillar-card}
+
+<div class="num">RED</div>
+
+### Capacitaciones
+
+Cursos, talleres y becas de formación —tanto los que organiza ISLP Bolivia como otros externos
+que vale la pena difundir (R, Python, encuestas, machine learning, GIS, etc.).
+:::
+
+:::
+
+## Únete a la comunidad
+
+<!--
+Reemplaza los enlaces "#" por los reales una vez que crees los canales.
+-->
+
+Para que esto sea realmente ágil, la propuesta es un canal de mensajería en vez de solo
+correo o redes sociales. Así lo organizaríamos:
+
+::: {.categorias-grid}
+
+::: {.categoria-card}
+#### Telegram · canal principal
+<div class="edad">Recomendado</div>
+
+Un **canal** de Telegram para difundir ofertas, eventos y capacitaciones sin saturar a nadie
+de notificaciones, más un **grupo** ligado para preguntas y networking entre miembros.
+Telegram permite grupos grandes, organizar por temas (hilos) y no obliga a mostrar tu número
+de celular a todo el grupo, algo que WhatsApp sí hace.
+
+[Unirme al canal](#){.btn .btn-terracota .btn-sm role="button"}
+[Unirme al grupo de discusión](#){.btn .btn-outline-terracota .btn-sm role="button"}
+:::
+
+::: {.categoria-card}
+#### LinkedIn · página o grupo
+<div class="edad">Complementario</div>
+
+Útil específicamente para ofertas laborales: es donde reclutadores e instituciones ya buscan
+candidatos, y le da a la red visibilidad y credibilidad profesional fuera de Bolivia.
+
+[Seguir en LinkedIn](#){.btn .btn-outline-terracota .btn-sm role="button"}
+:::
+
+::: {.categoria-card}
+#### WhatsApp Community
+<div class="edad">Alternativa</div>
+
+Más familiar para mucha gente en Bolivia y permite sub-grupos temáticos, pero expone tu número
+de celular salvo que actives la mensajería solo-administradores, y escala peor que Telegram
+para comunidades grandes.
+
+[Evaluar más adelante](#){.btn .btn-outline-terracota .btn-sm role="button"}
+:::
+
+:::
+
+**Sugerencia:** empezar con el canal + grupo de Telegram como espacio principal (rápido de
+crear y administrar), abrir LinkedIn en paralelo para las ofertas laborales, y dejar WhatsApp
+como opción futura si la comunidad lo pide explícitamente.
+
+## ¿Tienes una oferta, evento o capacitación para compartir?
+
+Cualquier miembro puede proponer contenido para difundir en la red.
+
+1. **Escríbenos** con los detalles (qué es, fecha, enlace o contacto, a quién le sirve).
+2. **Revisamos** que sea relevante para la comunidad estadística boliviana.
+3. **Lo publicamos** en el canal y, si corresponde, aquí en [Actualizaciones](actualizaciones/index.qmd).
+
+[Compartir una oportunidad](mailto:islp.bolivia@gmail.com?subject=Oferta%20para%20la%20Red%20de%20Estad%C3%ADsticos){.btn .btn-terracota role="button"}
+
+## ¿Quieres ir más allá de compartir contenido?
+
+Si además de estar en la red quieres involucrarte activamente en la iniciativa, revisa los
+[Grupos de Estudio](grupos-estudio.qmd): ahí abrimos espacio para voluntarios y pasantes por
+línea de investigación.

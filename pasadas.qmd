@@ -1,0 +1,186 @@
+---
+title: "Ediciones pasadas"
+subtitle: "Un recorrido por la historia de la Competencia Boliviana de Pósters Estadísticos"
+---
+
+La competencia se realiza cada dos años. Aquí encuentras el archivo de todas las ediciones anteriores, con sus afiches, criterios, guías y los pósters ganadores por categoría.
+
+<!--
+Para cada edición: reemplaza las imágenes de img/ganadores/<edicion>/ con el póster ganador
+de cada categoría (jpg/png), o enlaza directamente un PDF cambiando la extensión — el
+navegador lo abre igual al hacer clic. Puedes agregar o quitar bloques {.gallery-item} según
+cuántos ganadores quieras mostrar por edición. Haz clic en "Ver galería" para desplegarla.
+-->
+
+::: {.edicion-card}
+
+#### 4ª · 2024 — 2025
+
+Competencia concluida con participantes de todo el país en las cuatro categorías.
+
+[Ver afiche](img/cartel_2.jpg){.btn .btn-outline-terracota .btn-sm role="button"}
+[Criterios](img/criterios_2020_2021.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
+[Guía](img/guia_2020_2021.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
+
+::: {.gallery-toggle}
+<details>
+<summary>Ver galería de pósters ganadores</summary>
+
+::: {.gallery-grid}
+
+::: {.gallery-item}
+![Póster ganador, categoría Laplace, edición 2024](img/ganadores/2024/laplace.jpg)
+
+1.er lugar · Laplace
+:::
+
+::: {.gallery-item}
+![Póster ganador, categoría Bernoulli, edición 2024](img/ganadores/2024/bernoulli.jpg)
+
+1.er lugar · Bernoulli
+:::
+
+::: {.gallery-item}
+![Póster ganador, categoría Poisson, edición 2024](img/ganadores/2024/poisson.jpg)
+
+1.er lugar · Poisson
+:::
+
+::: {.gallery-item}
+![Póster ganador, categoría Gauss, edición 2024](img/ganadores/2024/gauss.jpg)
+
+1.er lugar · Gauss
+:::
+
+:::
+
+</details>
+:::
+
+:::
+
+::: {.edicion-card}
+
+#### 3ª · 2022 — 2023
+
+Edición que consolidó la participación universitaria con la categoría Gauss.
+
+[Ver afiche](img/afiche2022.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
+
+::: {.gallery-toggle}
+<details>
+<summary>Ver galería de pósters ganadores</summary>
+
+::: {.gallery-grid}
+
+::: {.gallery-item}
+![Póster ganador, categoría Laplace, edición 2022](img/ganadores/2022/laplace.jpg)
+
+1.er lugar · Laplace
+:::
+
+::: {.gallery-item}
+![Póster ganador, categoría Bernoulli, edición 2022](img/ganadores/2022/bernoulli.jpg)
+
+1.er lugar · Bernoulli
+:::
+
+::: {.gallery-item}
+![Póster ganador, categoría Poisson, edición 2022](img/ganadores/2022/poisson.jpg)
+
+1.er lugar · Poisson
+:::
+
+::: {.gallery-item}
+![Póster ganador, categoría Gauss, edición 2022](img/ganadores/2022/gauss.jpg)
+
+1.er lugar · Gauss
+:::
+
+:::
+
+</details>
+:::
+
+:::
+
+::: {.edicion-card}
+
+#### 2ª · 2020 — 2021
+
+Edición realizada en modalidad virtual ante la pandemia, con participación nacional.
+
+[Ver afiche](img/afiche2020.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
+
+::: {.gallery-toggle}
+<details>
+<summary>Ver galería de pósters ganadores</summary>
+
+::: {.gallery-grid}
+
+::: {.gallery-item}
+![Póster ganador, categoría Bernoulli, edición 2020](img/poster/1_Bernoulli_2020.jpg)
+
+1.er lugar · Bernoulli
+:::
+
+::: {.gallery-item}
+![Póster ganador, categoría Poisson, edición 2020](img/poster/1_Poisson_2020.jpg)
+
+1.er lugar · Poisson
+:::
+
+::: {.gallery-item}
+![Póster ganador, categoría Gauss, edición 2020](img/poster/1_Gauss_2020.jpg)
+
+1.er lugar · Gauss
+:::
+
+:::
+
+</details>
+:::
+
+:::
+
+::: {.edicion-card}
+
+#### 1ª · 2018 — 2019
+
+Edición inaugural: Bolivia se convierte en el noveno país sudamericano en unirse al ISLP.
+
+[Ver afiche](img/afiche2018_1.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
+
+::: {.gallery-toggle}
+<details>
+<summary>Ver galería de pósters ganadores</summary>
+
+::: {.gallery-grid}
+
+::: {.gallery-item}
+![Póster ganador, categoría Laplace, edición 2018](img/ganadores/2018/laplace.jpg)
+
+1.er lugar · Laplace
+:::
+
+::: {.gallery-item}
+![Póster ganador, categoría Bernoulli, edición 2018](img/ganadores/2018/bernoulli.jpg)
+
+1.er lugar · Bernoulli
+:::
+
+:::
+
+</details>
+:::
+
+:::
+
+## Pósters bolivianos en la competencia internacional
+
+Para ver los pósters de las competencias internacionales pasadas, visita las páginas oficiales del ISLP:
+
+- [Competencia Internacional 2020–2021](http://iase-web.org/islp/Poster_Competition_2020-2021.php?p=Posters)
+- [Competencia Internacional 2018–2019](http://iase-web.org/islp/Poster_Competition_2018-2019.php?p=Posters)
+
+[← Volver a la edición actual](competencia.qmd)

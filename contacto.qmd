@@ -1,0 +1,42 @@
+---
+title: "Contáctanos"
+subtitle: "¿Tienes preguntas, quieres apoyar la iniciativa o intercambiar ideas? Aquí estamos."
+---
+
+::: {.pillars}
+
+::: {.pillar-card}
+### Correo electrónico
+Envía tu póster o tus consultas a:
+
+**[islp.bolivia@gmail.com](mailto:islp.bolivia@gmail.com)**
+:::
+
+::: {.pillar-card}
+### Facebook
+Síguenos y recibe actualizaciones.
+
+[Visitar página →](https://www.facebook.com/islpBolivia/)
+:::
+
+::: {.pillar-card}
+### Twitter / X
+Mantente actualizado con noticias.
+
+[Seguir →](https://twitter.com/IslpBolivia)
+:::
+
+:::
+
+## ¿Listo para inscribirte a la competencia?
+
+1. **Lee las normas** de participación y los requisitos de tu categoría.
+2. **Descarga la guía** completa para la elaboración de tu póster.
+3. **Prepara tu póster** siguiendo los criterios especificados.
+4. **Completa el formulario** con los datos de tu equipo.
+
+[Normas](img/Normas_de_participacion.pdf){.btn .btn-outline-terracota role="button"}
+[Guía](img/guia_2022_2023.pdf){.btn .btn-outline-terracota role="button"}
+[Formulario de inscripción](inscripcion.qmd){.btn .btn-terracota role="button"}
+
+¿Preguntas adicionales? Consulta las [preguntas frecuentes de la competencia](competencia.qmd#preguntas-frecuentes) o escríbenos por Facebook.

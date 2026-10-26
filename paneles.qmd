@@ -1,0 +1,61 @@
+---
+title: "Paneles de Alfabetización Estadística"
+subtitle: "Conversaciones abiertas sobre datos y estadística en Bolivia"
+---
+
+Los Paneles de Alfabetización Estadística (PAE) son una iniciativa conjunta entre
+ISLP Bolivia y la **Fundación Aru**: mesas de conversación donde especialistas,
+investigadores y sociedad civil discuten el rol de los datos en temas de coyuntura
+nacional. Llevamos 2 paneles realizados en 2025.
+
+<!--
+Revisa las fechas exactas y ajusta "Fecha por confirmar"; también puedes reemplazar
+los enlaces de Facebook por notas de prensa o grabaciones si las tienes.
+-->
+
+## Paneles realizados
+
+::: {.edicion-card}
+
+#### 2° Panel · Encuestas Electorales y Alfabetización Estadística
+
+Fecha por confirmar · 2025 · Con Fundación Aru
+
+Panelistas: Telma Ramos, Alejandro Herrera, Andrés Chirinos y Bladimir Morales. Moderador: Alvaro Chirino.
+
+[Ver publicación](https://www.facebook.com/share/p/18Q7TaZ8ou/){.btn .btn-outline-terracota .btn-sm role="button"}
+
+:::
+
+::: {.edicion-card}
+
+#### 1° Panel · Encuestas Electorales y Alfabetización Estadística
+
+Fecha por confirmar · 2025 · Con Fundación Aru
+
+Panelistas: Omar Chocotea, Fernando Rivero, Laura Quenta y Sofía Vera. Moderador: Alvaro Chirino.
+
+[Ver publicación](https://www.facebook.com/share/p/1B5Sxb55MU/){.btn .btn-outline-terracota .btn-sm role="button"}
+
+:::
+
+Más fotos y cobertura del ciclo: [publicación adicional](https://www.facebook.com/share/p/19EGLf7PQr/).
+
+## Próximo panel
+
+::: {.pillar-card}
+
+<div class="num">PRÓXIMAMENTE</div>
+
+### 3° Panel de Alfabetización Estadística
+
+<!-- Tema, fecha, hora, modalidad (presencial/virtual), lugar o enlace -->
+Tema y fecha por confirmar.
+
+[Inscríbete / más información](#){.btn .btn-terracota role="button"}
+
+:::
+
+## ¿Quieres proponer un tema o participar como panelista?
+
+Escríbenos a [islp.bolivia@gmail.com](mailto:islp.bolivia@gmail.com) o visita nuestra [página de contacto](contacto.qmd).

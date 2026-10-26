@@ -1,0 +1,54 @@
+/*-- scss:defaults --*/
+
+// Paleta 60-30-10
+// 60% neutro: Slate 50 / Slate 900 · 30% secundario: Sky 600 / Blue 900 · 10% acento: Amber 500
+$body-bg: #F8FAFC;      // Slate 50
+$body-color: #0F172A;   // Slate 900
+$primary: #F59E0B;      // Amber 500 — acento (CTA, interacción)
+$secondary: #0284C7;    // Sky 600 — identidad/tecnología (nav, enlaces, botones secundarios)
+$navy: #1E3A8A;         // Blue 900 — encabezados
+$light: #F1F5F9;        // Slate 100
+$dark: #0F172A;
+
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$headings-font-family: "Inter", sans-serif;
+$headings-font-weight: 600;
+$headings-color: $navy;
+
+$link-color: $secondary;
+$navbar-bg: #FFFFFF;
+
+$border-radius: 0.25rem;
+$border-color: #E2E8F0;  // Slate 200
+
+/*-- scss:rules --*/
+
+body {
+  letter-spacing: 0.005em;
+}
+
+.navbar {
+  border-bottom: 1px solid $border-color;
+  box-shadow: none;
+}
+
+.navbar-title {
+  font-weight: 700;
+  font-size: 1rem;
+  color: $navy;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: $secondary !important;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  margin-top: 3rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid $border-color;
+}

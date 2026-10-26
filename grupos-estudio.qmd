@@ -1,0 +1,119 @@
+---
+title: "Grupos de Estudio"
+subtitle: "Convocatoria a voluntarios y pasantes para nuestras líneas de investigación"
+---
+
+Los Grupos de Estudio son la puerta de entrada para estudiantes y jóvenes profesionales que
+quieren involucrarse activamente con la iniciativa: no son solo sesiones de aprendizaje, sino
+un espacio para **sumarse como voluntario o pasante** a una línea de investigación concreta,
+acompañado por el equipo de ISLP Bolivia.
+
+<!-- Ajusta fechas, cupos y modalidad según la convocatoria vigente -->
+<span class="badge-estado badge-actual">Convocatoria abierta</span>
+
+## Líneas de investigación
+
+Cada línea combina formación con trabajo aplicado a datos bolivianos. No necesitas ser experto:
+buscamos curiosidad, compromiso y ganas de aprender haciendo.
+
+::: {.pillars}
+
+::: {.pillar-card}
+<div class="num">LÍNEA 01</div>
+
+### Alfabetización estadística
+<!-- Descripción editable -->
+Diseño de material educativo, talleres y paneles para acercar el pensamiento estadístico a
+distintos públicos: escolares, docentes y sociedad civil.
+:::
+
+::: {.pillar-card}
+<div class="num">LÍNEA 02</div>
+
+### Datos abiertos
+<!-- Descripción editable -->
+Exploración, limpieza y documentación de portales de datos abiertos bolivianos (INE, ministerios,
+gobiernos municipales), y desarrollo de herramientas para facilitar su acceso y uso.
+:::
+
+::: {.pillar-card}
+<div class="num">LÍNEA 03</div>
+
+### Demografía
+<!-- Descripción editable -->
+Análisis de dinámicas poblacionales en Bolivia: migración, estructura por edad, proyecciones
+y su vínculo con censos y encuestas de hogares.
+:::
+
+::: {.pillar-card}
+<div class="num">LÍNEA 04</div>
+
+### Estudios experimentales
+<!-- Descripción editable -->
+Diseño y análisis de experimentos y estudios cuasi-experimentales aplicados a preguntas sociales,
+educativas o de salud pública.
+:::
+
+::: {.pillar-card}
+<div class="num">LÍNEA 05</div>
+
+### Estadística espacial y áreas pequeñas
+<!-- Descripción editable -->
+Construcción de marcos muestrales, modelos de estimación en áreas pequeñas (Fay-Herriot, CAR/BYM)
+y análisis geoespacial aplicados a encuestas de hogares bolivianas.
+:::
+
+:::
+
+## ¿Cómo funciona?
+
+::: {.pillars}
+
+::: {.pillar-card}
+<div class="num">MODALIDAD</div>
+
+### Sesiones periódicas
+<!-- Frecuencia: semanal, quincenal; virtual o presencial -->
+Encuentros periódicos por línea de investigación, más trabajo autónomo entre sesiones.
+:::
+
+::: {.pillar-card}
+<div class="num">DURACIÓN</div>
+
+### Ciclos de voluntariado/pasantía
+<!-- Duración típica del ciclo -->
+Ciclos de varios meses, con un producto concreto al final: reporte, herramienta, material o
+publicación.
+:::
+
+::: {.pillar-card}
+<div class="num">REQUISITOS</div>
+
+### ¿Quién puede postular?
+<!-- Requisitos de nivel, carrera, herramientas -->
+Estudiantes universitarios o egresados con interés en estadística, datos o ciencias sociales.
+No se requiere experiencia previa, sí compromiso.
+:::
+
+:::
+
+## Beneficios de participar
+
+- Mentoría directa del equipo coordinador de ISLP Bolivia.
+- Certificado de voluntariado o pasantía al finalizar el ciclo.
+- Coautoría en materiales, reportes o publicaciones derivadas del trabajo.
+- Posibilidad de presentar resultados en los Paneles de Alfabetización.
+
+## Cómo postular
+
+1. **Elige una línea** de investigación de tu interés (puedes mencionar una segunda opción).
+2. **Completa el formulario** de postulación con tus datos y motivación.
+3. **Entrevista breve** con el equipo coordinador.
+4. **Incorporación** al grupo de estudio y arranque del ciclo.
+
+<!-- Reemplaza el "#" por el enlace real del formulario de postulación -->
+[Postular ahora](#){.btn .btn-terracota .btn-lg role="button"}
+
+## ¿Tienes dudas?
+
+Escríbenos a [islp.bolivia@gmail.com](mailto:islp.bolivia@gmail.com) o visita nuestra [página de contacto](contacto.qmd).
