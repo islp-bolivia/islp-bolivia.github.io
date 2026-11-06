@@ -8,17 +8,36 @@ image: imagen.jpg
 
 El 15 de abril de 2019 realizamos el acto de premiación de la **Primera Competencia Boliviana
 de Pósters Estadísticos 2018–2019**, lanzada en julio de 2018 por el Instituto Nacional de
-Estadística (INE) y la Fundación Aru, con 26 equipos participantes.
+Estadística (INE) y la Fundación Aru, con 26 pósters de 97 estudiantes de La Paz y Santa Cruz.
 
 El director del INE, Santiago Farjat, participó en la ceremonia, que buscó promover acciones
 concretas para impulsar la alfabetización estadística en Bolivia.
 
 Los primeros lugares de las tres categorías representaron a Bolivia en la **Competencia
-Internacional de Pósters del ISLP**, cuyos resultados se anunciaron en el Congreso Mundial de
-Estadística, en Kuala Lumpur (Malasia), del 18 al 23 de agosto de 2019.
+Internacional de Pósters del ISLP**, cuyos resultados se anunciaron en el 62.° Congreso Mundial
+de Estadística, en Kuala Lumpur (Malasia), del 18 al 23 de agosto de 2019.
+
+## Ganadores
+
+**Categoría Gauss** (universitarios)
+
+- 1.er lugar: *Uso del Internet en Bolivia*. Araceli Aylin Morales Gutiérrez, Edgar Callizaya Calderón, Noemí Marani Turpo y Juana Verónica Poma Quispe.
+- 2.° lugar: *Tipología de uso de transporte*. Verónica Nicole Guibarra Marín, Selena Ticona Huanca y Samantha Cortez Rocabado.
+- 3.er lugar: *Bolivia Digital 1993–2018*. Gabriel Condori Ticona y Joseline Erika Villca Tapia.
+- Reconocimiento especial: *Viaje tranquila, autobuses seguros ¡Solo para ellas!*. Erika Magaly Huanca Choque, Claudia Rosario Pardo Jalja, Henry Wilfredo Limachi Yujra y Wildo Mario Larico Hidalgo.
+
+**Categoría Poisson** (secundaria superior)
+
+- 1.er lugar: *Ecosistema de la economía digital*. Benjamín Reydet Arce y Marcelo Andrés Fortún Arandia.
+
+**Categoría Bernoulli** (secundaria inferior)
+
+- 1.er lugar: *Control de basura*. Emily Ariana Mamani Díaz, Eliazarth Uriel Inca Huanca, Maday Berenice Laura Quispe y Mishel Dañana Mamani.
+- 2.° lugar: *Trata y tráfico de personas*. Maribel Quispe Sánchez, Maribel Quispe Cruz y María Liz Mena Mamani.
 
 La competencia se realizó con la colaboración del INE, UNICEF Bolivia, el Banco Mundial, FAO
 Bolivia, la Universidad Católica Boliviana "San Pablo" y la Universidad Privada de Santa Cruz
 de la Sierra (UPSA).
 
-[Ver la edición 2018–2019](../../../pasadas.qmd){.btn .btn-outline-terracota role="button"}
+[Ver los pósters ganadores](../../../pasadas.qmd){.btn .btn-outline-terracota role="button"}
+[Boletín de premiación](../../../img/boletines/boletin-clausura-1ra-edicion.pdf){.btn .btn-outline-terracota role="button"}

@@ -16,7 +16,12 @@ cuántos ganadores quieras mostrar por edición. Haz clic en "Ver galería" para
 
 #### 4ª · 2024 — 2025
 
-Información de esta edición en preparación: pronto publicaremos afiche, ganadores y pósters.
+Equipos ganadores:
+
+- **Gauss**: 1.er lugar, equipo "Doble A" (Alba Alejandra Ortiz Alcocer y Adrián Marcelo Requena Oros); 2.° lugar, "Team medio ambiente forever" (Mishel Diana Flores Urrutia y Herlan David Poroma Alanoca); 3.er lugar, "Los Desvelados" (Carol Katerine Canqui Uturunco y Huáscar Diego Cuentas Ramos). Todos de La Paz.
+- **Poisson**: 1.er lugar, equipo "Georginas" (Santa Cruz).
+
+Pronto publicaremos el afiche y los pósters ganadores de esta edición.
 
 :::
 
@@ -25,6 +30,12 @@ Información de esta edición en preparación: pronto publicaremos afiche, ganad
 #### 3ª · 2022 — 2023
 
 Premiación el 12 de abril de 2023 en el auditorio del INE, con 9 equipos ganadores en las categorías Bernoulli, Poisson y Gauss. El equipo ganador de Gauss, "Los Embriones" (UMSA), obtuvo el **3.er lugar en la competencia internacional del ISLP 2023** con el póster *Explorando la mortalidad infantil en Bolivia y el mundo*.
+
+Equipos ganadores:
+
+- **Gauss**: 1.er lugar, "Los Embriones" (Daniel Linares Terrazas y Edson Loayza Siñani, UMSA); 2.° lugar, "El Grupito" (Maya Alexandra Jurado Veizan y Adriel Rocel Alarcón Gerl, UMSA); 3.er lugar, *Índice de violencia contra la mujer en Bolivia* (Luz Gabriela Tinta Chura y Herlan Gabriel Callisaya Ramos, UMSA).
+- **Poisson**: 1.er lugar, "Aeternus" (Colegio San Calixto); 2.° lugar, "AJAYU" (U.E. La Paz "A"); 3.er lugar, "Jóvenes dinámicos" (U.E. José Martí).
+- **Bernoulli**: 1.er lugar, "Los pensadores" (Instituto Americano y U.E. de Mallasa); 2.° lugar, "Golden Warriors" (El Alto); 3.er lugar, "Futuro" (U.E. de Mallasa e Instituto Americano).
 
 [Ver afiche](img/afiche2022.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
 [Criterios](img/Criterios_a_Jusgar2022.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
@@ -36,10 +47,13 @@ Premiación el 12 de abril de 2023 en el auditorio del INE, con 9 equipos ganado
 
 #### 2ª · 2020 — 2021
 
-Lanzada en noviembre de 2020, en plena pandemia, con talleres gratuitos de análisis de datos. La premiación fue virtual, el 16 de abril de 2021, junto al INE y la Fundación Aru.
+Lanzada en noviembre de 2020, en plena pandemia, con talleres gratuitos de análisis de datos y el apoyo del Banco Mundial, la FAO, el INE, la Fundación Aru, R-Ladies La Paz y el Centro de Estudiantes de Estadística de la UMSA. Los pósters se recibieron de noviembre de 2020 a enero de 2021, y la premiación fue virtual, el 16 de abril de 2021. Hubo equipos ganadores de La Paz, Cochabamba y Tarija.
 
+[Ver afiche](img/afiche2020.jpg){.btn .btn-outline-terracota .btn-sm role="button"}
+[Reglas](img/reglas2020_2021.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
 [Criterios](img/criterios_2020_2021.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
 [Guía](img/guia_2020_2021.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
+[Boletín](img/boletines/boletin-3-segunda-edicion.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
 
 ::: {.gallery-toggle}
 <details>
@@ -48,21 +62,39 @@ Lanzada en noviembre de 2020, en plena pandemia, con talleres gratuitos de anál
 ::: {.gallery-grid}
 
 ::: {.gallery-item}
-![Póster ganador, categoría Bernoulli, edición 2020](img/poster/1_Bernoulli_2020.jpg)
+![Póster «Factores que influyen en la educación en Bolivia», 1.er lugar Gauss 2020](img/poster/1_Gauss_2020.jpg)
 
-1.er lugar · Bernoulli
+**1.er lugar · Gauss**<br>*Factores que influyen en la educación en Bolivia*<br>Zulema Quispe, Noemí Condori, Víctor Marca y Ana Carolina Mendoza
 :::
 
 ::: {.gallery-item}
-![Póster ganador, categoría Poisson, edición 2020](img/poster/1_Poisson_2020.jpg)
+![Póster «Banca digital», 2.° lugar Gauss 2020](img/ganadores/2020/2-gauss.jpg)
 
-1.er lugar · Poisson
+**2.° lugar · Gauss**<br>*Banca digital*<br>Laskar Israel Quisbert Torrez
 :::
 
 ::: {.gallery-item}
-![Póster ganador, categoría Gauss, edición 2020](img/poster/1_Gauss_2020.jpg)
+![Póster «La diarrea en menores de 5 años y el acceso al agua en Bolivia», 3.er lugar Gauss 2020](img/ganadores/2020/3-gauss.jpg)
 
-1.er lugar · Gauss
+**3.er lugar · Gauss**<br>*La diarrea en menores de 5 años y su relación con el acceso al agua*<br>Equipo "Hijos de Hipócrates" (UMSS y UMSA)
+:::
+
+::: {.gallery-item}
+![Póster «Tráfico de vida silvestre en Bolivia», 1.er lugar Poisson 2020](img/poster/1_Poisson_2020.jpg)
+
+**1.er lugar · Poisson**<br>*Tráfico de vida silvestre en Bolivia*<br>Equipo "Women in Action" (El Alto)
+:::
+
+::: {.gallery-item}
+![Póster «Erosión: un problema agravado con el tiempo», 2.° lugar Poisson 2020](img/ganadores/2020/2-poisson.jpg)
+
+**2.° lugar · Poisson**<br>*Erosión: un problema agravado con el tiempo*<br>Equipo "Voiles" (U.E. Santa Ana 3, Tarija)
+:::
+
+::: {.gallery-item}
+![Póster «Contaminación atmosférica», 1.er lugar Bernoulli 2020](img/poster/1_Bernoulli_2020.jpg)
+
+**1.er lugar · Bernoulli**<br>*Contaminación atmosférica*<br>Equipo "Los protectores del aire" (La Paz)
 :::
 
 :::
@@ -76,10 +108,65 @@ Lanzada en noviembre de 2020, en plena pandemia, con talleres gratuitos de anál
 
 #### 1ª · 2018 — 2019
 
-Edición inaugural, lanzada en julio de 2018 por el INE y la Fundación Aru, con 26 equipos participantes. La premiación fue el 15 de abril de 2019 y los ganadores representaron a Bolivia en la competencia internacional, cuyos resultados se anunciaron en Kuala Lumpur (Malasia) en agosto de 2019.
+Edición inaugural, lanzada el 5 de julio de 2018 en el auditorio del INE por el Instituto Nacional de Estadística y la Fundación Aru. Se recibieron **26 pósters de 97 estudiantes** de La Paz y Santa Cruz, en las categorías Bernoulli, Poisson y Gauss. La premiación fue el 15 de abril de 2019, y los primeros lugares representaron a Bolivia en la competencia internacional, cuyos resultados se anunciaron en el 62.° Congreso Mundial de Estadística, en Kuala Lumpur (Malasia), en agosto de 2019.
 
-[Ver afiche](img/cartel2.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
+[Ver afiche](img/afiche2018.jpg){.btn .btn-outline-terracota .btn-sm role="button"}
 [Guía](img/guia.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
+[Boletín de lanzamiento](img/boletines/boletin-1-lanzamiento-2018.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
+[Boletín de premiación](img/boletines/boletin-clausura-1ra-edicion.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
+
+::: {.gallery-toggle}
+<details>
+<summary>Ver galería de pósters ganadores</summary>
+
+::: {.gallery-grid}
+
+::: {.gallery-item}
+![Póster «Uso del Internet en Bolivia», 1.er lugar Gauss 2018](img/ganadores/2018/1-gauss.jpg)
+
+**1.er lugar · Gauss**<br>*Uso del Internet en Bolivia*<br>Araceli Morales, Edgar Callizaya, Noemí Marani y Juana Poma
+:::
+
+::: {.gallery-item}
+![Póster «Tipología de uso de transporte», 2.° lugar Gauss 2018](img/ganadores/2018/2-gauss.jpg)
+
+**2.° lugar · Gauss**<br>*Tipología de uso de transporte*<br>Verónica Guibarra, Selena Ticona y Samantha Cortez
+:::
+
+::: {.gallery-item}
+![Póster «Bolivia Digital 1993–2018», 3.er lugar Gauss 2018](img/ganadores/2018/3-gauss.jpg)
+
+**3.er lugar · Gauss**<br>*Bolivia Digital 1993–2018*<br>Gabriel Condori y Joseline Villca
+:::
+
+::: {.gallery-item}
+![Póster «Viaje tranquila, autobuses seguros ¡Solo para ellas!», reconocimiento especial Gauss 2018](img/ganadores/2018/especial-gauss.jpg)
+
+**Reconocimiento especial · Gauss**<br>*Viaje tranquila, autobuses seguros ¡Solo para ellas!*<br>Erika Huanca, Claudia Pardo, Henry Limachi y Wildo Larico
+:::
+
+::: {.gallery-item}
+![Póster «Ecosistema de la economía digital», 1.er lugar Poisson 2018](img/ganadores/2018/1-poisson.jpg)
+
+**1.er lugar · Poisson**<br>*Ecosistema de la economía digital*<br>Benjamín Reydet y Marcelo Fortún
+:::
+
+::: {.gallery-item}
+![Póster «Control de basura», 1.er lugar Bernoulli 2018](img/ganadores/2018/1-bernoulli.jpg)
+
+**1.er lugar · Bernoulli**<br>*Control de basura*<br>Emily Mamani, Eliazarth Inca, Maday Laura y Mishel Mamani
+:::
+
+::: {.gallery-item}
+![Póster «Trata y tráfico de personas», 2.° lugar Bernoulli 2018](img/ganadores/2018/2-bernoulli.jpg)
+
+**2.° lugar · Bernoulli**<br>*Trata y tráfico de personas*<br>Maribel Quispe, Maribel Quispe y María Liz Mena
+:::
+
+:::
+
+</details>
+:::
 
 :::
 

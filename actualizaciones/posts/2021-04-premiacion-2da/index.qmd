@@ -18,6 +18,24 @@ En la ceremonia escuchamos las experiencias de los ganadores y las palabras de r
 la Fundación Aru, el ISLP, el INE y el Banco Mundial. Los primeros lugares de las categorías
 Bernoulli, Poisson y Gauss representaron a Bolivia en la competencia internacional.
 
+## Ganadores
+
+**Gauss** (universitarios)
+
+- 1.er lugar: *Factores que influyen en la educación en Bolivia*. Zulema Quispe Yujra, Noemí Gabriela Condori Alanoca, Víctor Vladimir Marca Mamani y Ana Carolina Mendoza Ramos (UMSA).
+- 2.° lugar: *Banca digital*. Laskar Israel Quisbert Torrez.
+- 3.er lugar: *La diarrea en menores de 5 años y su relación con los distintos tipos de acceso al agua en Bolivia*. Equipo "Hijos de Hipócrates" (UMSS y UMSA).
+
+**Poisson** (secundaria superior)
+
+- 1.er lugar: *Tráfico de vida silvestre en Bolivia*. Equipo "Women in Action" (El Alto).
+- 2.° lugar: *Erosión: un problema agravado con el tiempo*. Equipo "Voiles" (U.E. Santa Ana 3, Tarija).
+
+**Bernoulli** (secundaria inferior)
+
+- 1.er lugar: *Contaminación atmosférica*. Equipo "Los protectores del aire" (La Paz).
+
 Los premios fueron aportados por el Banco Mundial, la FAO, el INE y la Fundación Aru.
 
-[Ver la edición 2020–2021](../../../pasadas.qmd){.btn .btn-outline-terracota role="button"}
+[Ver los pósters ganadores](../../../pasadas.qmd){.btn .btn-outline-terracota role="button"}
+[Boletín de la edición](../../../img/boletines/boletin-3-segunda-edicion.pdf){.btn .btn-outline-terracota role="button"}
