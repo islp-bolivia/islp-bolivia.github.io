@@ -16,38 +16,7 @@ cuántos ganadores quieras mostrar por edición. Haz clic en "Ver galería" para
 
 #### 4ª · 2024 — 2025
 
-Competencia concluida con participantes de todo el país en las cuatro categorías.
-
-[Ver afiche](img/cartel_2.jpg){.btn .btn-outline-terracota .btn-sm role="button"}
-
-::: {.gallery-toggle}
-<details>
-<summary>Ver galería de pósters ganadores</summary>
-
-::: {.gallery-grid}
-
-::: {.gallery-item}
-![Póster ganador, categoría Bernoulli, edición 2024](img/ganadores/2024/bernoulli.jpg)
-
-1.er lugar · Bernoulli
-:::
-
-::: {.gallery-item}
-![Póster ganador, categoría Poisson, edición 2024](img/ganadores/2024/poisson.jpg)
-
-1.er lugar · Poisson
-:::
-
-::: {.gallery-item}
-![Póster ganador, categoría Gauss, edición 2024](img/ganadores/2024/gauss.jpg)
-
-1.er lugar · Gauss
-:::
-
-:::
-
-</details>
-:::
+Información de esta edición en preparación: pronto publicaremos afiche, ganadores y pósters.
 
 :::
 

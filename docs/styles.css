@@ -467,8 +467,17 @@ details.gallery-toggle summary {
   animation-play-state: paused;
 }
 
+/* Quarto envuelve los logos en un <p>: también debe ir en fila */
+.logo-marquee .logo-track > p {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 0;
+}
+
 /* Cada logo en una tarjeta blanca del mismo tamaño, a color */
 .logo-marquee .logo-track a {
+  flex: 0 0 auto;
   display: flex;
   align-items: center;
   justify-content: center;
