@@ -110,7 +110,7 @@ Las bases contienen toda la información necesaria para la correcta postulación
 
 [Normas de participación](img/docs27/rules27.pdf){.btn .btn-outline-terracota role="button"}
 [Guía de elaboración del póster](img/docs27/guia27.pdf){.btn .btn-outline-terracota role="button"}
-[Guía de elaboración del póster (Primaria)](img/docs27/rules2p.pdf){.btn .btn-outline-terracota role="button"}
+[Guía de elaboración del póster (Primaria)](img/docs27/rules27p.pdf){.btn .btn-outline-terracota role="button"}
 [Criterios de evaluación](img/docs27/criterios27.pdf){.btn .btn-outline-terracota role="button"}
 
 ### ¿Quiénes pueden participar?

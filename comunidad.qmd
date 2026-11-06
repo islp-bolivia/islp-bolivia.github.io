@@ -52,50 +52,38 @@ que vale la pena difundir (R, Python, encuestas, machine learning, GIS, etc.).
 Reemplaza los enlaces "#" por los reales una vez que crees los canales.
 -->
 
-Para que esto sea realmente ágil, la propuesta es un canal de mensajería en vez de solo
-correo o redes sociales. Así lo organizaríamos:
+Súmate a nuestros canales para recibir ofertas laborales, eventos y capacitaciones, y para
+conectar con otros estadísticos del país.
 
 ::: {.categorias-grid}
 
 ::: {.categoria-card}
-#### Telegram · canal principal
-<div class="edad">Recomendado</div>
+#### Telegram
 
-Un **canal** de Telegram para difundir ofertas, eventos y capacitaciones sin saturar a nadie
-de notificaciones, más un **grupo** ligado para preguntas y networking entre miembros.
-Telegram permite grupos grandes, organizar por temas (hilos) y no obliga a mostrar tu número
-de celular a todo el grupo, algo que WhatsApp sí hace.
+Nuestro **canal** de difusión, con ofertas, eventos y capacitaciones, y un **grupo** para
+preguntas y networking entre miembros. Tu número de celular no queda visible para el resto.
 
 [Unirme al canal](#){.btn .btn-terracota .btn-sm role="button"}
-[Unirme al grupo de discusión](#){.btn .btn-outline-terracota .btn-sm role="button"}
+[Unirme al grupo](#){.btn .btn-outline-terracota .btn-sm role="button"}
 :::
 
 ::: {.categoria-card}
-#### LinkedIn · página o grupo
-<div class="edad">Complementario</div>
+#### LinkedIn
 
-Útil específicamente para ofertas laborales: es donde reclutadores e instituciones ya buscan
-candidatos, y le da a la red visibilidad y credibilidad profesional fuera de Bolivia.
+Ofertas laborales, convocatorias y novedades profesionales de la red estadística boliviana.
 
 [Seguir en LinkedIn](#){.btn .btn-outline-terracota .btn-sm role="button"}
 :::
 
 ::: {.categoria-card}
-#### WhatsApp Community
-<div class="edad">Alternativa</div>
+#### WhatsApp
 
-Más familiar para mucha gente en Bolivia y permite sub-grupos temáticos, pero expone tu número
-de celular salvo que actives la mensajería solo-administradores, y escala peor que Telegram
-para comunidades grandes.
+Comunidad con avisos importantes y subgrupos temáticos.
 
-[Evaluar más adelante](#){.btn .btn-outline-terracota .btn-sm role="button"}
+[Unirme por WhatsApp](#){.btn .btn-outline-terracota .btn-sm role="button"}
 :::
 
 :::
-
-**Sugerencia:** empezar con el canal + grupo de Telegram como espacio principal (rápido de
-crear y administrar), abrir LinkedIn en paralelo para las ofertas laborales, y dejar WhatsApp
-como opción futura si la comunidad lo pide explícitamente.
 
 ## ¿Tienes una oferta, evento o capacitación para compartir?
 

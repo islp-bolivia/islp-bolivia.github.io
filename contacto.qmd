@@ -35,8 +35,8 @@ Mantente actualizado con noticias.
 3. **Prepara tu póster** siguiendo los criterios especificados.
 4. **Completa el formulario** con los datos de tu equipo.
 
-[Normas](img/Normas_de_participacion.pdf){.btn .btn-outline-terracota role="button"}
-[Guía](img/guia_2022_2023.pdf){.btn .btn-outline-terracota role="button"}
+[Normas](img/docs27/rules27.pdf){.btn .btn-outline-terracota role="button"}
+[Guía](img/docs27/guia27.pdf){.btn .btn-outline-terracota role="button"}
 [Formulario de inscripción](inscripcion.qmd){.btn .btn-terracota role="button"}
 
 ¿Preguntas adicionales? Consulta las [preguntas frecuentes de la competencia](competencia.qmd#preguntas-frecuentes) o escríbenos por Facebook.

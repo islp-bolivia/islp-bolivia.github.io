@@ -5,7 +5,7 @@ website:
   title: "Alfabetización Estadística - Bolivia"
   description: "Iniciativa de Alfabetización Estadística en Bolivia: Competencia de Pósters, Paneles y Grupos de Estudio."
   site-url: "https://islp-bolivia.github.io"
-  favicon: img/favicon.png
+  favicon: img/favicon.ico
   page-navigation: true
   back-to-top-navigation: true
   search:
@@ -21,7 +21,7 @@ website:
   navbar:
     background: white
     pinned: true
-    logo: img/islp.jpg
+    logo: img/logo.png
     title: "Alfabetización Estadística - Bolivia"
     left:
       - text: "Inicio"
