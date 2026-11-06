@@ -1,0 +1,38 @@
+---
+title: "Realizamos los dos primeros Paneles de Alfabetización Estadística"
+description: "Junto a la Fundación Aru, reunimos a especialistas para conversar sobre encuestas electorales y el uso crítico de los datos en Bolivia."
+date: 2026-11-05
+categories: [Paneles]
+image: imagen.jpg
+---
+
+Junto a la **Fundación Aru** realizamos los dos primeros **Paneles de Alfabetización Estadística
+(PAE)**: mesas de conversación donde especialistas, investigadores y sociedad civil discuten el
+rol de los datos en temas de coyuntura nacional.
+
+Ambos paneles abordaron las **encuestas electorales**: cómo se diseñan, cómo leer sus resultados y
+márgenes de error, y por qué la alfabetización estadística es clave para que la ciudadanía las
+interprete con criterio.
+
+## 1.° Panel
+
+Panelistas: Omar Chocotea, Fernando Rivero, Laura Quenta y Sofía Vera.
+Moderador: Alvaro Chirino.
+
+[Ver publicación](https://www.facebook.com/share/p/1B5Sxb55MU/){.btn .btn-outline-terracota .btn-sm role="button"}
+
+## 2.° Panel
+
+Panelistas: Telma Ramos, Alejandro Herrera, Andrés Chirinos y Bladimir Morales.
+Moderador: Alvaro Chirino.
+
+[Ver publicación](https://www.facebook.com/share/p/18Q7TaZ8ou/){.btn .btn-outline-terracota .btn-sm role="button"}
+
+Agradecemos a los panelistas y a todas las personas que participaron. Más fotos y cobertura en
+esta [publicación adicional](https://www.facebook.com/share/p/19EGLf7PQr/).
+
+## ¿Qué viene?
+
+Ya estamos preparando el **3.° Panel**. ¿Tienes un tema que te gustaría discutir o quieres
+participar como panelista? Escríbenos a [islp.bolivia@gmail.com](mailto:islp.bolivia@gmail.com)
+o revisa la página de [Paneles](../../../paneles.qmd).

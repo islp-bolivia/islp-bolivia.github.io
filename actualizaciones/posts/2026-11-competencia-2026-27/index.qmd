@@ -1,0 +1,39 @@
+---
+title: "Abrimos la quinta Competencia Boliviana de Pósters Estadísticos 2026–2027"
+description: "Inscripciones abiertas para estudiantes de primaria, secundaria y universidad. Los ganadores representarán a Bolivia en la competencia internacional del ISLP."
+date: 2026-11-05
+categories: [Competencia, Convocatorias]
+image: imagen.jpg
+---
+
+Lanzamos la **quinta edición de la Competencia Boliviana de Pósters Estadísticos**. Invitamos a
+estudiantes de todo el país a formular una pregunta, recolectar o analizar datos y comunicar sus
+hallazgos en un póster estadístico.
+
+## ¿Quiénes pueden participar?
+
+Equipos de **2 a 5 estudiantes** con un **tutor** (profesor, docente, especialista o investigador),
+en una de cuatro categorías:
+
+- **Cox**: 9 a 12 años, primaria alta.
+- **Bernoulli**: 13 a 15 años, secundaria baja.
+- **Poisson**: 16 a 18 años, secundaria alta.
+- **Gauss**: universitarios, sin límite de edad.
+
+## ¿Qué se gana?
+
+El **primer lugar de cada categoría** recibe trofeo y diploma, y **representa a Bolivia en la
+competencia internacional del ISLP**. El segundo y tercer lugar reciben diploma de reconocimiento,
+y todos los equipos que envíen su póster completo obtienen un certificado digital de participación.
+
+## ¿Cómo postular?
+
+1. Revisa las [normas, la guía y los criterios de evaluación](../../../competencia.qmd#bases-del-concurso).
+2. Prepara tu póster con tu equipo y tu tutor.
+3. Completa el [formulario de inscripción](../../../inscripcion.qmd).
+
+**Tienes plazo hasta el 28 de febrero de 2027** para inscribir a tu equipo y enviar tu póster.
+Consulta el [calendario completo de la competencia](../../../competencia.qmd#fechas-importantes)
+para conocer las fechas de evaluación y premiación.
+
+[Inscríbete ahora](../../../inscripcion.qmd){.btn .btn-terracota role="button"}

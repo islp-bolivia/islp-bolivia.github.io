@@ -457,26 +457,46 @@ details.gallery-toggle summary {
 .logo-marquee .logo-track {
   display: flex;
   align-items: center;
-  gap: 3.5rem;
+  gap: 1.5rem;
   width: max-content;
-  animation: scroll-logos 32s linear infinite;
+  padding: 0.5rem 0;
+  animation: scroll-logos 45s linear infinite;
 }
 
 .logo-marquee:hover .logo-track {
   animation-play-state: paused;
 }
 
-.logo-marquee .logo-track img {
-  height: 38px;
-  width: auto;
-  filter: grayscale(100%);
-  opacity: 0.7;
-  transition: opacity 0.2s ease, filter 0.2s ease;
+/* Cada logo en una tarjeta blanca del mismo tamaño, a color */
+.logo-marquee .logo-track a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 170px;
+  height: 100px;
+  padding: 0.6rem 0.9rem;
+  background: #fff;
+  border: 1px solid #E2E8F0;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(15, 23, 42, 0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.logo-marquee .logo-track a:hover img {
-  filter: none;
-  opacity: 1;
+.logo-marquee .logo-track img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+.logo-marquee .logo-track a:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 18px rgba(15, 23, 42, 0.12);
+}
+
+@media (max-width: 576px) {
+  .logo-marquee .logo-track a { width: 130px; height: 80px; }
 }
 
 @keyframes scroll-logos {

@@ -3,7 +3,7 @@ title: "Competencia Boliviana de Pósters Estadísticos"
 subtitle: "Quinta edición · 2026–2027"
 ---
 
-<span class="badge-estado badge-actual">Inscripciones abiertas hasta marzo de 2027</span>
+<span class="badge-estado badge-actual">Inscripciones abiertas hasta el 28 de febrero de 2027</span>
 
 Postula tu investigación y forma parte del principal evento de alfabetización estadística de Bolivia. Equipos de 2 a 5 estudiantes, guiados por un tutor, presentan un póster estadístico original. Los mejores trabajos representan a Bolivia en la [competencia internacional del ISLP](https://iase-web.org/islp), presente en más de 120 países.
 
@@ -75,24 +75,31 @@ Presentación oficial de la quinta versión; difusión de la plataforma de infor
 :::
 
 ::: {.timeline-item}
-<div class="date">Octubre 2026 — Marzo 2027</div>
+<div class="date">Octubre 2026 — Febrero 2027</div>
 
 #### Periodo de registro y envío del póster
 Apertura de inscripción de grupos; envío de pósters al correo de recepción; publicación de recursos y tutoriales; talleres de orientación a demanda.
 :::
 
 ::: {.timeline-item}
-<div class="date">Febrero 2027</div>
+<div class="date">28 de febrero de 2027</div>
 
 #### Cierre de registro
-Último mes habilitado para la inscripción del grupo y envío de pósters; tabulación final del registro de participantes.
+Fecha límite para la inscripción del grupo y el envío de pósters; tabulación final del registro de participantes.
 :::
 
 ::: {.timeline-item}
-<div class="date">Marzo 2027</div>
+<div class="date">Primera semana de marzo 2027</div>
 
 #### Evaluación del póster
 Reunión de la comisión de evaluación; distinción de los tres primeros lugares para cada categoría.
+:::
+
+::: {.timeline-item}
+<div class="date">Hasta el 14 de marzo de 2027</div>
+
+#### Envío a la competencia internacional
+Los pósters ganadores de cada categoría se envían a la [competencia internacional del ISLP](https://iase-web.org/islp-poster-competition-2026-2027).
 :::
 
 ::: {.timeline-item}
@@ -100,6 +107,13 @@ Reunión de la comisión de evaluación; distinción de los tres primeros lugare
 
 #### Premiación nacional
 Convocatoria a los grupos ganadores; ceremonia de premiación de los pósters ganadores por categoría.
+:::
+
+::: {.timeline-item}
+<div class="date">11–15 de julio de 2027</div>
+
+#### Resultados internacionales
+Anuncio de los ganadores internacionales en el 66.º Congreso Mundial de Estadística del ISI, en Lusaka (Zambia).
 :::
 
 :::
