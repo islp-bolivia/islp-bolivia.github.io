@@ -19,20 +19,12 @@ cuántos ganadores quieras mostrar por edición. Haz clic en "Ver galería" para
 Competencia concluida con participantes de todo el país en las cuatro categorías.
 
 [Ver afiche](img/cartel_2.jpg){.btn .btn-outline-terracota .btn-sm role="button"}
-[Criterios](img/criterios_2020_2021.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
-[Guía](img/guia_2020_2021.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
 
 ::: {.gallery-toggle}
 <details>
 <summary>Ver galería de pósters ganadores</summary>
 
 ::: {.gallery-grid}
-
-::: {.gallery-item}
-![Póster ganador, categoría Laplace, edición 2024](img/ganadores/2024/laplace.jpg)
-
-1.er lugar · Laplace
-:::
 
 ::: {.gallery-item}
 ![Póster ganador, categoría Bernoulli, edición 2024](img/ganadores/2024/bernoulli.jpg)
@@ -63,44 +55,11 @@ Competencia concluida con participantes de todo el país en las cuatro categorí
 
 #### 3ª · 2022 — 2023
 
-Edición que consolidó la participación universitaria con la categoría Gauss.
+Premiación el 12 de abril de 2023 en el auditorio del INE, con 9 equipos ganadores en las categorías Bernoulli, Poisson y Gauss. El equipo ganador de Gauss, "Los Embriones" (UMSA), obtuvo el **3.er lugar en la competencia internacional del ISLP 2023** con el póster *Explorando la mortalidad infantil en Bolivia y el mundo*.
 
 [Ver afiche](img/afiche2022.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
-
-::: {.gallery-toggle}
-<details>
-<summary>Ver galería de pósters ganadores</summary>
-
-::: {.gallery-grid}
-
-::: {.gallery-item}
-![Póster ganador, categoría Laplace, edición 2022](img/ganadores/2022/laplace.jpg)
-
-1.er lugar · Laplace
-:::
-
-::: {.gallery-item}
-![Póster ganador, categoría Bernoulli, edición 2022](img/ganadores/2022/bernoulli.jpg)
-
-1.er lugar · Bernoulli
-:::
-
-::: {.gallery-item}
-![Póster ganador, categoría Poisson, edición 2022](img/ganadores/2022/poisson.jpg)
-
-1.er lugar · Poisson
-:::
-
-::: {.gallery-item}
-![Póster ganador, categoría Gauss, edición 2022](img/ganadores/2022/gauss.jpg)
-
-1.er lugar · Gauss
-:::
-
-:::
-
-</details>
-:::
+[Criterios](img/Criterios_a_Jusgar2022.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
+[Guía](img/guia_2022_2023.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
 
 :::
 
@@ -108,9 +67,10 @@ Edición que consolidó la participación universitaria con la categoría Gauss.
 
 #### 2ª · 2020 — 2021
 
-Edición realizada en modalidad virtual ante la pandemia, con participación nacional.
+Lanzada en noviembre de 2020, en plena pandemia, con talleres gratuitos de análisis de datos. La premiación fue virtual, el 16 de abril de 2021, junto al INE y la Fundación Aru.
 
-[Ver afiche](img/afiche2020.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
+[Criterios](img/criterios_2020_2021.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
+[Guía](img/guia_2020_2021.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
 
 ::: {.gallery-toggle}
 <details>
@@ -147,32 +107,10 @@ Edición realizada en modalidad virtual ante la pandemia, con participación nac
 
 #### 1ª · 2018 — 2019
 
-Edición inaugural: Bolivia se convierte en el noveno país sudamericano en unirse al ISLP.
+Edición inaugural, lanzada en julio de 2018 por el INE y la Fundación Aru, con 26 equipos participantes. La premiación fue el 15 de abril de 2019 y los ganadores representaron a Bolivia en la competencia internacional, cuyos resultados se anunciaron en Kuala Lumpur (Malasia) en agosto de 2019.
 
-[Ver afiche](img/afiche2018_1.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
-
-::: {.gallery-toggle}
-<details>
-<summary>Ver galería de pósters ganadores</summary>
-
-::: {.gallery-grid}
-
-::: {.gallery-item}
-![Póster ganador, categoría Laplace, edición 2018](img/ganadores/2018/laplace.jpg)
-
-1.er lugar · Laplace
-:::
-
-::: {.gallery-item}
-![Póster ganador, categoría Bernoulli, edición 2018](img/ganadores/2018/bernoulli.jpg)
-
-1.er lugar · Bernoulli
-:::
-
-:::
-
-</details>
-:::
+[Ver afiche](img/cartel2.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
+[Guía](img/guia.pdf){.btn .btn-outline-terracota .btn-sm role="button"}
 
 :::
 

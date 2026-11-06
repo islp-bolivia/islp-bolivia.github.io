@@ -1,0 +1,24 @@
+---
+title: "Premiamos a los ganadores de la Primera Competencia Boliviana de Pósters Estadísticos"
+description: "Cierre de la edición 2018–2019: los primeros lugares representaron a Bolivia en la competencia internacional del ISLP en Kuala Lumpur, Malasia."
+date: 2019-04-15
+categories: [Competencia, Premiación]
+image: imagen.jpg
+---
+
+El 15 de abril de 2019 realizamos el acto de premiación de la **Primera Competencia Boliviana
+de Pósters Estadísticos 2018–2019**, lanzada en julio de 2018 por el Instituto Nacional de
+Estadística (INE) y la Fundación Aru, con 26 equipos participantes.
+
+El director del INE, Santiago Farjat, participó en la ceremonia, que buscó promover acciones
+concretas para impulsar la alfabetización estadística en Bolivia.
+
+Los primeros lugares de las tres categorías representaron a Bolivia en la **Competencia
+Internacional de Pósters del ISLP**, cuyos resultados se anunciaron en el Congreso Mundial de
+Estadística, en Kuala Lumpur (Malasia), del 18 al 23 de agosto de 2019.
+
+La competencia se realizó con la colaboración del INE, UNICEF Bolivia, el Banco Mundial, FAO
+Bolivia, la Universidad Católica Boliviana "San Pablo" y la Universidad Privada de Santa Cruz
+de la Sierra (UPSA).
+
+[Ver la edición 2018–2019](../../../pasadas.qmd){.btn .btn-outline-terracota role="button"}

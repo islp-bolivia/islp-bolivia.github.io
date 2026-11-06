@@ -1,0 +1,24 @@
+---
+title: "Premiación de la Tercera Competencia Boliviana de Pósters Estadísticos"
+description: "Nueve equipos ganadores fueron premiados en el auditorio del INE, en las categorías Bernoulli, Poisson y Gauss."
+date: 2023-04-12
+categories: [Competencia, Premiación]
+image: imagen.jpg
+---
+
+El 12 de abril de 2023, en el auditorio Jorge Félix Ballivián del Instituto Nacional de
+Estadística, premiamos a los **9 equipos ganadores** de la **Tercera Competencia Boliviana de
+Pósters Estadísticos 2022–2023**, en tres categorías:
+
+- **Bernoulli**: 1.º, 2.º y 3.º de secundaria.
+- **Poisson**: 4.º, 5.º y 6.º de secundaria.
+- **Gauss**: estudiantes universitarios de pregrado.
+
+Los premios incluyeron tablets, colecciones de libros estadísticos nacionales y material de
+escritorio. En la misma ceremonia se entregaron los certificados de los talleres gratuitos "Uso
+de datos del Banco Mundial" y "Análisis de información y bases de datos".
+
+Esta edición contó con el apoyo de UNICEF, el Banco Mundial, el INE, la Universidad Católica
+Boliviana "San Pablo" y la Carrera de Estadística de la UMSA.
+
+[Ver la edición 2022–2023](../../../pasadas.qmd){.btn .btn-outline-terracota role="button"}

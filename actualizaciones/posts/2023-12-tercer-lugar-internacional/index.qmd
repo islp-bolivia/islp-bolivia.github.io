@@ -1,0 +1,23 @@
+---
+title: "Bolivia obtiene el 3.er lugar en la Competencia Internacional de Pósters del ISLP"
+description: "El póster «Explorando la mortalidad infantil en Bolivia y el mundo», de estudiantes de la UMSA, logró el tercer lugar en la categoría universitaria."
+date: 2023-12-04
+categories: [Competencia, Internacional]
+image: imagen.jpg
+---
+
+¡Éxito boliviano en estadística! El equipo **"Los Embriones"**, ganador de la categoría
+universitaria (Gauss) en la competencia nacional 2022–2023, obtuvo el **tercer lugar en la
+Competencia Internacional de Pósters del ISLP 2023**.
+
+El póster ***Explorando la mortalidad infantil en Bolivia y el mundo*** fue elaborado por
+**Daniel Linares Terrazas** y **Edson Loayza Siñani**, estudiantes de la Universidad Mayor de
+San Andrés, con su tutora **Beatriz Luna Barrón**.
+
+Es la primera vez que un equipo boliviano alcanza un lugar en la competencia internacional, y
+Bolivia fue, junto a Argentina, uno de los dos países de la región con un puesto en esta edición.
+
+Agradecemos a UNICEF Bolivia, el Banco Mundial, el Instituto Nacional de Estadística, la
+Universidad Católica Boliviana "San Pablo" y la Carrera de Estadística de la UMSA por su apoyo.
+
+[Ver ediciones pasadas](../../../pasadas.qmd){.btn .btn-outline-terracota role="button"}
